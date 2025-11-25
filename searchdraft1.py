@@ -45,7 +45,7 @@ def parse_results_page(url):
     # TODO: Update this selector based on actual SAA HTML
     table = soup.find("table")
     if not table:
-        print("No results table found:", url)
+        print("No results table found:", search_term)
         return []
 
     properties = []
@@ -138,12 +138,15 @@ import csv
 print("imported")
 
 def main():
-    input_csv = "ExampleDataScottish.csv"
-    output_csv = "saa_full_results2.csv"
+    input_csv = "ExampleDataScottish10.csv"
+    output_csv = "saa_full_10.csv"
 
     # Columns we want to save
     desired_columns = [
         "input_postcode",
+        "input_address",
+        "heating_type",
+        "building_emissions",
         "result_address",
         "result_value",
         "Property Address",
@@ -160,8 +163,11 @@ def main():
         reader = csv.DictReader(f)
 
         for row in reader:
-            term = row["POSTCODE"].strip()
-            print("Searching:", term)
+            address1 = row.get("ADDRESS1", "").strip()
+            address2 = row.get("ADDRESS2", "").strip()
+            term = address2 if address2 else address1
+            heat=row.get("MAIN_HEATING_FUEL").strip()
+            emissions=row.get("BUILDING_EMISSIONS").strip()
 
             search_url = build_search_url(term)
             results = parse_results_page(search_url)
@@ -172,6 +178,9 @@ def main():
                 # Combine search result + detail data
                 combined = {
                     "input_postcode": term,
+                    "input_address":address1,
+                    "heating_type": heat,
+                    "building_emissions": emissions,
                     "result_address": r.get("result_address", ""),
                     "result_value": r.get("result_value", ""),
                     "Property Address": detail_data.get("Property Address", ""),
@@ -183,6 +192,7 @@ def main():
                 }
 
                 all_rows.append(combined)
+                print(f"Done with search term: {term}")
                 time.sleep(5)  # polite delay
 
             time.sleep(5)
