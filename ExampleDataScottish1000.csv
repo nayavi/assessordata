@@ -1,0 +1,879 @@
+﻿OSG_REFERENCE_NUMBER,ADDRESS1,ADDRESS2,POST_TOWN,POSTCODE,BUILDING_EMISSIONS,ELECTRICITY_SOURCE,MAIN_HEATING_FUEL,APPROXIMATE_ENERGY_USE,LOCAL_AUTHORITY,CONSTITUENCY,TARGET_EMISSIONS
+,Flat 1/1,33 Lyndoch Street,Glasgow,G3 6AA,73.14,Grid supplied,Natural Gas,237,00QS,00QSMK,17.71
+9.067E+11,STOREY 0/1,31 LYNEDOCH STREET,GLASGOW,G3 6AA,34.01,Grid supplied,Natural Gas,96,00QS,00QSMK,15.14
+,Suite 1,33 Lyndoch Street,Glasgow,G3 6AA,86.59,Grid supplied,Natural Gas,321,00QS,00QSMK,40.41
+9.067E+11,STOREY BASEMENT,3 LYNEDOCH PLACE,GLASGOW,G3 6AB,109.38,Grid supplied,Natural Gas,251,00QS,00QSMK,17.91
+,1 Park Circus Place,,Glasgow,G3 6AH,21.23,Grid supplied,Natural Gas,119,00QS,00QSMK,3.57
+9.06701E+11,STOREY 1,23 PARK CIRCUS,GLASGOW,G3 6AP,52.75,Grid supplied,Natural Gas,186,00QS,00QSMK,16.83
+9.067E+11,STOREY GROUND,23 PARK CIRCUS,GLASGOW,G3 6AP,59.48,Grid supplied,Natural Gas,214,00QS,00QSMK,19.64
+9.067E+11,FLAT 2,23 PARK CIRCUS,GLASGOW,G3 6AP,64.78,Grid supplied,Natural Gas,247,00QS,00QSMK,18.73
+9.067E+11,FLAT 3,23 PARK CIRCUS,GLASGOW,G3 6AP,29.25,Grid supplied,Natural Gas,95,00QS,00QSMK,14.34
+,26 Park Circus,,Glasgow,G3 6AP,83.51,Grid supplied,Natural Gas,349,00QS,00QSMK,15.54
+9.067E+11,27 Park Circus,,Glasgow,G3 6AP,82.93,Grid supplied,Natural Gas,209,00QS,00QSMK,15.05
+,11 Park Circus,,Glasgow,G3 6AX,39.47,Grid supplied,Natural Gas,135,00QS,00QSMK,13.96
+9.067E+11,19 PARK CIRCUS,,GLASGOW,G3 6BE,73.61,Grid supplied,Natural Gas,205,00QS,00QSMK,15.42
+9.067E+11,22 PARK TERRACE LANE,,GLASGOW,G3 6BQ,58.62,Grid supplied,Natural Gas,203,00QS,00QSMK,12.76
+,11 Ashley Street,,Glasgow,G3 6DR,97.4,Grid supplied,Natural Gas,281,00QS,00QSML,19.54
+9.067E+11,44 ASHLEY STREET,,GLASGOW,G3 6DS,39.82,Grid supplied,Natural Gas,200,00QS,00QSML,8.69
+,The Gilchrist Suite,44 Ashley Street,Glasgow,G3 6DS,104.09,Grid supplied,Natural Gas,366,00QS,00QSML,22.23
+9.067E+11,55 WOODLANDS ROAD,,GLASGOW,G3 6ED,201.81,Grid supplied,Natural Gas,691,00QS,00QSMK,66.95
+,The Drake,,Glasgow,G3 6EF,83.36,Grid supplied,Natural Gas,453,00QS,00QSMK,44.79
+9.067E+11,20 LYNEDOCH CRESCENT,,GLASGOW,G3 6EQ,24.93,Grid supplied,Natural Gas,137,00QS,00QSMK,9.56
+,18 LYNEDOCH CRESCENT,,GLASGOW,G3 6EQ,35.96,Grid supplied,Natural Gas,184,00QS,00QSMK,5.56
+,16 Lynedoch Crescent,,Glasgow,G3 6EQ,50.31,Grid supplied,Natural Gas,193,00QS,00QSMK,20.08
+9.067E+11,60 WOODLANDS ROAD,,GLASGOW,G3 6HA,50.48,Grid supplied,Natural Gas,145,00QS,00QSML,13.72
+9.06701E+11,STOREY GROUND,101 ST GEORGES ROAD,GLASGOW,G3 6JA,28.66,Grid supplied,Natural Gas,61,00QS,00QSML,13.41
+9.067E+11,81 ST GEORGES ROAD,,GLASGOW,G3 6JA,37.13,Grid supplied,Natural Gas,102,00QS,00QSML,20.69
+9.067E+11,129 St GEORGES ROAD,,GLASGOW,G3 6JA,233.5,Grid supplied,Natural Gas,760,00QS,00QSML,80.54
+9.067E+11,201 ST GEORGES ROAD,,GLASGOW,G3 6JE,87.96,Grid supplied,Natural Gas,293,00QS,00QSML,29.91
+9.067E+11,334 ST GEORGES ROAD,,GLASGOW,G3 6JR,48.55,Grid supplied,Natural Gas,155,00QS,00QSML,24.56
+9.067E+11,160 WOODLANDS ROAD,,GLASGOW,G3 6LF,77.86,Grid supplied,Natural Gas,265,00QS,00QSML,41.89
+9.067E+11,250 Woodlands Road,,Glasgow,G3 6ND,53.48,Grid supplied,Natural Gas,190,00QS,00QSML,19.89
+9.067E+11,266 WOODLANDS ROAD,,GLASGOW,G3 6NE,46.66,Grid supplied,Natural Gas,132,00QS,00QSML,22
+9.067E+11,ST ANDREWS BUILDING 11,ELDON STREET,GLASGOW,G3 6NH,53.46,Grid supplied,Natural Gas,193,00QS,00QSMK,18.55
+,Assembly Buildings,20 Scott Street,Glasgow,G3 6PE,77.33,Grid supplied,Natural Gas,315,00QS,00QSMK,12.04
+,Block D,44 Garnethill Street,Glasgow,G3 6QQ,106.12,Grid supplied,Natural Gas,279,00QS,00QSMK,56.02
+,Block A & B,85-87 Bucchleuch Street,Glasgow,G3 6QT,134.54,Grid supplied,Natural Gas,380,00QS,00QSMK,80.59
+,Block C,89 Bucchleuch Street,Glasgow,G3 6QT,94.81,Grid supplied,Natural Gas,257,00QS,00QSMK,54.46
+,St. Aloysius’ College PE Base,23 Rose Street,Glasgow,G3 6RE,9.68,Grid supplied,Natural Gas,44,00QS,00QSMK,6.67
+9.067E+11,21 Rose Street,,Glasgow,G3 6RE,68.49,Grid supplied,Natural Gas,200,00QS,00QSMK,22.14
+9.067E+11,ATLANTIC HOTEL,144 RENFREW STREET,GLASGOW,G3 6RF,117.94,Grid supplied,Natural Gas,571,00QS,00QSMK,62.07
+9.067E+11,1 HILL STREET,,GLASGOW,G3 6RN,84.96,Grid supplied,Natural Gas,272,00QS,00QSMK,64.93
+9.067E+11,HALDANE BUILDING,30 HILL STREET,GLASGOW,G3 6RN,43.66,Grid supplied,Natural Gas,138,00QS,00QSMK,16.57
+,Reid Building,164 Renfrew Street,Glasgow,G3 6RQ,35,Grid supplied,Natural Gas,113,00QS,00QSMK,16.14
+,Bourdon Building,167 Renfrew Street,Glasgow,G3 6RQ,52.73,Grid supplied,Natural Gas,164,00QS,00QSMK,16.96
+,St. Aloysius’ College Sports Facility,26 Dalhousie Street,Glasgow,G3 6RS,42.36,Grid supplied,Natural Gas,182,,,37.48
+9.067E+11,95 CAMBRIDGE STREET,,GLASGOW,G3 6RU,91.16,Grid supplied,Natural Gas,510,00QS,00QSMK,40.67
+9.067E+11,91 CAMBRIDGE STREET,,GLASGOW,G3 6RU,161.81,Grid supplied,Natural Gas,528,00QS,00QSMK,58.27
+9.067E+11,53 Rose Street,,Glasgow,G3 6SF,59.82,Grid supplied,Natural Gas,305,00QS,00QSMK,7.26
+9.067E+11,Floor 3/1,134 Renfrew Street,Glasgow,G3 6ST,48.37,Grid supplied,Natural Gas,141,00QS,00QSMK,15.54
+9.067E+11,RICHMOND BUILDING,250 RENFREW STREET,GLASGOW,G3 6TT,80.33,Grid supplied,Natural Gas,416,00QS,00QSMK,13.73
+9.067E+11,MCLAYS GUEST HOUSE,272 RENFREW STREET,GLASGOW,G3 6TT,168.89,Grid supplied,Natural Gas,650,00QS,00QSMK,91.15
+9.067E+11,212 RENFREW STREET,,GLASGOW,G3 6TX,118.78,Grid supplied,Natural Gas,470,00QS,00QSMK,85.26
+9.067E+11,230 RENFREW STREET,,GLASGOW,G3 6TX,119.48,Grid supplied,Natural Gas,484,00QS,00QSMK,66.34
+9.067E+11,"224 - 228 Renfrew Street,",,Glasgow,G3 6TX,164.12,Grid supplied,Natural Gas,591,00QS,00QSMK,68.68
+,JD Kelly Building,121 Hill Street,Glasgow,G3 6TY,81.66,Grid supplied,Natural Gas,410,00QS,00QSMK,13.04
+9.067E+11,20/22 St Georges Road,,Glasgow,G3 6UJ,76.58,Grid supplied,Natural Gas,238,00QS,00QSMK,42.55
+9.067E+11,72 ELDERSLIE STREET,,GLASGOW,G3 7AL,38.98,Grid supplied,Natural Gas,99,00QS,00QSMK,18.61
+,Stewart House,123 Elderslie Street,Glasgow,G3 7AR,72.82,Grid supplied,Natural Gas,301,00QS,00QSMK,43.45
+9.067E+11,123 ELDERSLIE STREET,,Glasgow,G3 7AR,82.44,Grid supplied,Natural Gas,392,00QS,00QSMK,28.21
+9.067E+11,138 ELDERSLIE STREET,,GLASGOW,G3 7AW,126.09,Grid supplied,Natural Gas,403,00QS,00QSMK,57.06
+,147-151 North Street,,Glasgow,G3 7DA,90.51,Grid supplied,Natural Gas,256,00QS,00QSMK,22.79
+9.067E+11,157 NORTH STREET,,GLASGOW,G3 7DA,77.03,Grid supplied,Natural Gas,271,00QS,00QSMK,36.33
+9.067E+11,241 North Street,,Glasgow,G3 7DL,191.51,Grid supplied,Natural Gas,491,00QS,00QSMK,73.89
+9.067E+11,235 NORTH STREET,,GLASGOW,G3 7DL,104.89,Grid supplied,Natural Gas,285,00QS,00QSMK,70.32
+9.067E+11,THE MITCHELL LIBRARY,201 NORTH STREET,GLASGOW,G3 7DN,26.13,Grid supplied,Natural Gas,137,00QS,00QSMK,5.87
+,First Floor,32 Granville Street,Glasgow,G3 7DR,83.85,Grid supplied,Natural Gas,273,00QS,00QSMK,22.07
+9.067E+11,74 Berkeley Street,,Glasgow,G3 7DS,83.9,Grid supplied,Natural Gas,207,00QS,00QSMK,15.82
+9.06701E+11,Storey Basement,40a Berkeley Street,Glasgow,G3 7DW,131.91,Grid supplied,Natural Gas,333,00QS,00QSMK,20.61
+9.067E+11,71 BERKELEY STREET,,GLASGOW,G3 7DX,46.7,Grid supplied,Natural Gas,142,00QS,00QSMK,14.07
+,65A Berkeley Street,,Glasgow,G3 7DX,46.06,Grid supplied,Natural Gas,178,00QS,00QSMK,17.79
+,Basement and Ground Floor,81 Berkeley Street,Glasgow,G3 7DX,56.63,Grid supplied,Natural Gas,302,00QS,00QSMK,6.09
+9.067E+11,13 Granville Street,,Glasgow,G3 7EE,51.94,Grid supplied,Natural Gas,272,00QS,00QSMK,6.82
+,First Floor,100 Berkeley Street,Glasgow,G3 7HU,44.33,Grid supplied,Natural Gas,108,00QS,00QSMK,12.76
+9.067E+11,136 ELDERSLIE STREET,,GLASGOW,G3 7JR,114.2,Grid supplied,Natural Gas,563,00QS,00QSMK,48.49
+9.067E+11,STOREY GROUND,5 SOMERSET PLACE,GLASGOW,G3 7JT,78.09,Grid supplied,Natural Gas,192,00QS,00QSMK,20.51
+,9 Somerset Place,,Glasgow,G3 7JT,56.38,Grid supplied,Natural Gas,177,00QS,00QSMK,12.88
+,2 Clifton Street,,Glasgow,G3 7LA,71.72,Grid supplied,Natural Gas,225,00QS,00QSMK,15.78
+9.067E+11,SUITE 1/2,2 CLIFTON STREET,GLASGOW,G3 7LA,83.82,Grid supplied,Natural Gas,310,00QS,00QSMK,22.21
+9.067E+11,4 Clifton Street,,Glasgow,G3 7LA,87.71,Grid supplied,Natural Gas,268,00QS,00QSMK,29.84
+,Clifton House,1 Clifton Place,Glasgow,G3 7LD,49.83,Grid supplied,Natural Gas,253,00QS,00QSMK,32.1
+,Clifton House,1-7 Clifton Place,Glasgow,G3 7LN,74.32,Grid supplied,Natural Gas,360,00QS,00QSMK,25.87
+9.067E+11,11 Clairmont Gardens,,Glasgow,G3 7LW,60.8,Grid supplied,Natural Gas,192,00QS,00QSMK,14.61
+,4 Clairmont Gardens,,Glasgow,G3 7LW,28.59,Grid supplied,Natural Gas,155,00QS,00QSMK,10.14
+,7 Clairmont Gardens,,Glasgow,G3 7LW,76.54,Grid supplied,Natural Gas,203,00QS,00QSMK,17.28
+9.067E+11,12 Sandyford Place,,Glasgow,G3 7NB,65.77,Grid supplied,Natural Gas,205,00QS,00QSMK,30.81
+9.067E+11,14 SANDYFORD PLACE,,GLASGOW,G3 7NB,46.46,Grid supplied,Natural Gas,179,00QS,00QSMK,22.41
+,13 Sandyford Place,,Glasgow,G3 7NB,67.25,Grid supplied,Natural Gas,194,00QS,00QSMK,18
+,2nd and 3rd Floor,8 Sandyford Place,Glasgow,G3 7NB,66.63,Grid supplied,Natural Gas,195,00QS,00QSMK,16.52
+,1st Floor,8 Sandyford Place,Glasgow,G3 7NB,59.41,Grid supplied,Natural Gas,157,00QS,00QSMK,17.25
+9.067E+11,FLAT 0/1,11 SANDYFORD PLACE,GLASGOW,G3 7NB,48.86,Grid supplied,Natural Gas,132,00QS,00QSMK,16.39
+,223 Sandyford Place,,Glasgow,G3 7NG,155.13,Grid supplied,Natural Gas,428,00QS,00QSMK,78.61
+,45690,27 Sandyford Place,Glasgow,G3 7NG,128.16,Grid supplied,Natural Gas,348,00QS,00QSMK,48.12
+9.067E+11,15 ROYAL TERRACE,,GLASGOW,G3 7NY,20.56,Grid supplied,Natural Gas,113,00QS,00QSMK,4.36
+9.067E+11,17 ROYAL TERRACE,,GLASGOW,G3 7NY,82.64,Grid supplied,Natural Gas,222,00QS,00QSMK,16.67
+,1st Floor and Attic Offices The Studio,5 Newton Terrace Lane,Glasgow,G3 7PB,31.82,Grid supplied,Natural Gas,102,00QS,00QSMK,13.65
+9.067E+11,5 NEWTON TERRACE LANE,,GLASGOW,G3 7PB,44.03,Grid supplied,Natural Gas,124,00QS,00QSMK,11.66
+9.067E+11,5 Newton Ter,,Glasgow,G3 7PJ,74.41,Grid supplied,Natural Gas,261,00QS,00QSMK,17.19
+,1st Floor,15 Newton Terrace,Glasgow,G3 7PJ,28.74,Grid supplied,Natural Gas,161,00QS,00QSMK,3.05
+,6-7 Newton Terrace,,Glasgow,G3 7PJ,62.06,Grid supplied,Natural Gas,183,00QS,00QSMK,13.09
+9.067E+11,15 Newton Terrace,,Glasgow,G3 7PJ,53.63,Grid supplied,Natural Gas,160,00QS,00QSMK,14.61
+9.067E+11,573 Sauchiehall Street,,Glasgow,G3 7PQ,102.81,Grid supplied,Natural Gas,298,00QS,00QSMK,58.5
+9.067E+11,559 SAUCHIEHALL STREET,,GLASGOW,G3 7PQ,21.79,Grid supplied,Natural Gas,115,00QS,00QSMK,8.69
+9.067E+11,523 SAUCHIEHALL STREET,,GLASGOW,G3 7PQ,179.4,Grid supplied,Natural Gas,463,00QS,00QSMK,63.05
+9.067E+11,1 NEWTON PLACE,,GLASGOW,G3 7PR,66.81,Grid supplied,Natural Gas,204,00QS,00QSMK,13.51
+9.067E+11,10 NEWTON PLACE,,GLASGOW,G3 7PR,66.3,Grid supplied,Natural Gas,221,00QS,00QSMK,16.7
+9.067E+11,22 NEWTON PLACE,,GLASGOW,G3 7PY,41.75,Grid supplied,Natural Gas,137,00QS,00QSMK,16.75
+,Second Floor,16 Newton Place,Glasgow,G3 7PY,88.02,Grid supplied,Natural Gas,306,00QS,00QSMK,20.44
+,Lower Ground Floor,16 Newton Place,Glasgow,G3 7PY,61.42,Grid supplied,Natural Gas,188,00QS,00QSMK,19.17
+9.067E+11,21 NEWTON PLACE,,GLASGOW,G3 7PY,109.21,Grid supplied,Natural Gas,276,00QS,00QSMK,20.25
+9.067E+11,14 NEWTON PLACE,,GLASGOW,G3 7PY,55.49,Grid supplied,Natural Gas,176,00QS,00QSMK,12.25
+9.067E+11,20 NEWTON PLACE,,GLASGOW,G3 7PY,111.63,Grid supplied,Natural Gas,250,00QS,00QSMK,14.49
+,Ground Floor,16 Newton Place,Glasgow,G3 7PY,110.02,Grid supplied,Natural Gas,273,00QS,00QSMK,18.74
+9.067E+11,23 NEWTON PLACE,,GLASGOW,G3 7PY,62.16,Grid supplied,Natural Gas,235,00QS,00QSMK,21
+,First Floor,16 Newton Place,Glasgow,G3 7PY,91.33,Grid supplied,Natural Gas,240,00QS,00QSMK,17.26
+,Unit 6A,1-2 Woodside Place,Glasgow,G3 7QF,85.94,Grid supplied,Natural Gas,294,00QS,00QSMK,17.34
+,Ground Floor 1 Woodside Place,,Glasgow,G3 7QF,40.2,Grid supplied,Natural Gas,136,00QS,00QSMK,13.23
+,2nd Floor Offices,2 Woodside Place,Glasgow,G3 7QF,42.57,Grid supplied,Natural Gas,221,00QS,00QSMK,4.2
+9.067E+11,4 WOODSIDE PLACE,,GLASGOW,G3 7QF,28.92,Grid supplied,Natural Gas,159,00QS,00QSMK,4.37
+,3 Woodside Place,,Glasgow,G3 7QF,30.28,Grid supplied,Natural Gas,163,00QS,00QSMK,4.94
+,Woodside Place,20-23,Glasgow,G3 7QF,54.85,Grid supplied,Natural Gas,154,00QS,00QSMK,14.01
+,Regus Group Limited,20-23 Woodside Place,Glasgow,G3 7QL,52.4,Grid supplied,Natural Gas,188,00QS,00QSMK,13.37
+,19 Woodside Place,,Glasgow,G3 7QL,111.74,Grid supplied,Natural Gas,250,00QS,00QSMK,14.82
+9.067E+11,4 Fitzroy Place,,Glasgow,G3 7RH,61.76,Grid supplied,Natural Gas,198,00QS,00QSMK,17.51
+9.067E+11,10 FITZROY PLACE,,GLASGOW,G3 7RW,38.31,Grid supplied,Natural Gas,205,00QS,00QSMK,3.94
+,36 Kelvingrove Street,,Glasgow,G3 7RZ,215.42,Grid supplied,Natural Gas,601,00QS,00QSMK,83.47
+9.067E+11,1 Parkgrove Terrace,,Glasgow,G3 7SD,31.63,Grid supplied,Natural Gas,100,00QS,00QSMK,11.06
+9.067E+11,46 GRAY STREET,,GLASGOW,G3 7SE,97.44,Grid supplied,Natural Gas,476,00QS,00QSMK,52.15
+9.067E+11,12 ROYAL CRESCENT,,GLASGOW,G3 7SL,61,Grid supplied,Natural Gas,184,00QS,00QSMK,18.17
+,Storey Basement,15 Royal Crescent,Glasgow,G3 7SL,32.48,Grid supplied,Natural Gas,170,00QS,00QSMK,3.82
+9.067E+11,9 ROYAL CRESCENT,,GLASGOW,G3 7SL,27.94,Grid supplied,Natural Gas,148,00QS,00QSMK,4.5
+9.067E+11,THE TOWN HOUSE HOTEL,21 ROYAL CRESCENT,GLASGOW,G3 7SL,176.82,Grid supplied,Natural Gas,680,00QS,00QSMK,103.54
+,2nd Floor,7 Royal Crescent,Glasgow,G3 7SL,68.22,Grid supplied,Natural Gas,272,00QS,00QSMK,17.55
+9.067E+11,SANDYFORD HOTEL,,GLASGOW,G3 7TF,127.32,Grid supplied,Natural Gas,401,00QS,00QSMK,86.55
+9.067E+11,916 SAUCHIEHALL STREET,,GLASGOW,G3 7TF,131.61,Grid supplied,Natural Gas,307,00QS,00QSMK,99.38
+9.067E+11,The Lorne Hotel,923 Sauchiehall Street,Glasgow,G3 7TQ,90.31,Grid supplied,Natural Gas,277,00QS,00QSMK,60
+9.067E+11,Devoncote Hotel,931 Sauchiehall Street,Glasgow,G3 7TQ,118.76,Grid supplied,Natural Gas,454,00QS,00QSMK,74.57
+9.067E+11,9 RADNOR STREET,,GLASGOW,G3 7UA,100.66,Grid supplied,Natural Gas,288,00QS,00QSMK,75.19
+9.067E+11,19 Woodside Crescent,,Glasgow,G3 7UL,63.07,Grid supplied,Natural Gas,159,00QS,00QSMK,17.05
+9.067E+11,15 Woodside Crescent,,Glasgow,G3 7UL,65.07,Grid supplied,Natural Gas,225,00QS,00QSMK,15.39
+9.067E+11,2 WOODSIDE CRESCENT,,GLASGOW,G3 7UL,90.36,Grid supplied,Natural Gas,442,00QS,00QSMK,17.32
+,The Mews Building,19 Woodside Crescent,Glasgow,G3 7UL,99.34,Grid supplied,Natural Gas,386,00QS,00QSMK,30.03
+9.06701E+11,STOREY 3/1 FOUNTAIN HOUSE,3 WOODSIDE CRESCENT,GLASGOW,G3 7UL,45.76,Grid supplied,Natural Gas,102,00QS,00QSMK,22.59
+,6 Claremont Terrace,,Glasgow,G3 7XR,75.98,Grid supplied,Natural Gas,224,00QS,00QSMK,16.78
+,Ground Floor,3 Park Gardens,Glasgow,G3 7YE,26.01,Grid supplied,Natural Gas,144,00QS,00QSMK,2.43
+,2nd Floor,3 Park Gardens,Glasgow,G3 7YE,44.4,Grid supplied,Natural Gas,224,00QS,00QSMK,4.56
+,4 Claremont Place,,Glasgow,G3 7YR,55.67,Grid supplied,Natural Gas,215,00QS,00QSMK,13.36
+9.067E+11,1274 ARGYLE STREET,,GLASGOW,G3 8AA,42.65,Grid supplied,Natural Gas,135,00QS,00QSMK,17.16
+9.067E+11,1340 Argyle Street,,Glasgow,G3 8AB,60.08,Grid supplied,Natural Gas,160,00QS,00QSMK,21.42
+9.067E+11,1347 ARGYLE STREET,,GLASGOW,G3 8AD,133.96,Grid supplied,Natural Gas,423,00QS,00QSMK,61.5
+9.067E+11,KELVINGROVE ART GALLERY,1,GLASGOW,G3 8AG,56.23,Grid supplied,Natural Gas,146,00QS,00QSMK,28.87
+9.067E+11,1397 ARGYLE STREET,,GLASGOW,G3 8AN,160.73,Grid supplied,Natural Gas,507,00QS,00QSMK,71.34
+,130 Finnieston Street,,Glasgow,G3 8AS,60.33,Grid supplied,Natural Gas,247,00QS,00QSMK,64.15
+,Pavilion 1 Finnieston Business Park,Minerva Way,Glasgow,G3 8AU,21.46,Grid supplied,Natural Gas,111,00QS,00QSMK,3.63
+,Pavilion 3 Finnieston Business Park,Minerva Way,Glasgow,G3 8AU,20.06,Grid supplied,Natural Gas,106,00QS,00QSMK,3.96
+9.067E+11,11 MINERVA WAY,,GLASGOW,G3 8AU,194.79,Grid supplied,Natural Gas,819,00QS,00QSMK,154.97
+,Ground Floor Pavilion 3,Finnieston Business Park,Glasgow,G3 8AU,57.23,Grid supplied,Natural Gas,140,00QS,00QSMK,16.84
+,Pavilion 2 Finnieston Business Park,Minerva Way,Glasgow,G3 8AU,19.27,Grid supplied,Natural Gas,102,00QS,00QSMK,3.89
+9.067E+11,KELVIN HALL SPORTS ARENA,1431 ARGYLE STREET,GLASGOW,G3 8AW,46.38,Grid supplied,Natural Gas,171,00QS,00QSMK,27.72
+9.067E+11,MENZIES GLASGOW HOTEL,27 WASHINGTON STREET,GLASGOW,G3 8AZ,96.51,Grid supplied,Natural Gas,495,00QS,00QSMK,65.29
+9.067E+11,PENTAGON BUSINESS CENTRE,36 WASHINGTON STREET,GLASGOW,G3 8AZ,73.06,Grid supplied,Natural Gas,148,00QS,00QSMK,17.98
+,88-96 Hydepark Street,,Glasgow,G3 8BW,45.02,Grid supplied,Natural Gas,100,00QS,00QSMK,18.95
+,Suite 0/1,89 Hydepark Street,Glasgow,G3 8BW,46.79,Grid supplied,Natural Gas,117,00QS,00QSMK,21.09
+9.067E+11,SUITE 1/1,89 HYDEPARK STREET,GLASGOW,G3 8BW,44.7,Grid supplied,Natural Gas,108,00QS,00QSMK,20.82
+,Unit 4,118-134 Hydepark Street,Glasgow,G3 8BW,115.04,Grid supplied,Natural Gas,361,00QS,00QSMK,34.71
+,62 Hyde Park Street,,Glasgow,G3 8BW,48.2,Grid supplied,Natural Gas,118,00QS,00QSMK,18.87
+,Unit 3,118-134 Hydepark Street,Glasgow,G3 8BW,115.04,Grid supplied,Natural Gas,361,00QS,00QSMK,34.71
+,Unit 1,118-134 Hydepark Street,Glasgow,G3 8BW,97.65,Grid supplied,Natural Gas,312,00QS,00QSMK,33.56
+,Unit 5,118-134 Hydepark Street,Glasgow,G3 8BW,143.29,Grid supplied,Natural Gas,551,00QS,00QSMK,55.56
+,138 Hydepark Street,,Glasgow,G3 8BW,30.79,Grid supplied,Natural Gas,175,00QS,00QSMK,4.34
+,1 Central Quay,,Glasgow,G3 8DA,22.08,Grid supplied,Natural Gas,142,00QS,00QSMK,2.32
+9.067E+11,32 FINNIESTON SQUARE,,GLASGOW,G3 8DY,55.36,Grid supplied,Natural Gas,224,00QS,00QSMK,14.89
+9.067E+11,44 Elliot street,,Glasgow,G3 8DZ,39.5,Grid supplied,Natural Gas,90,00QS,00QSMK,15.18
+9.067E+11,60 Elliot Street,,Glasgow,G3 8DZ,46.13,Grid supplied,Natural Gas,137,00QS,00QSMK,16.5
+9.067E+11,40 Elliot Street,,Glasgow,G3 8DZ,56.67,Grid supplied,Natural Gas,169,00QS,00QSMK,20.67
+,1st and 2nd Floor,69 Houldsworth Street,Glasgow,G3 8ED,30.55,Grid supplied,Natural Gas,76,00QS,00QSMK,9.22
+9.067E+11,SUITE 3/2,14 ELLIOT PLACE,GLASGOW,G3 8EP,80.67,Grid supplied,Natural Gas,215,00QS,00QSMK,24.79
+,Nursery Skypark SP1,10 Elliot Place,Glasgow,G3 8EP,30.37,Grid supplied,Natural Gas,86,00QS,00QSMK,11.64
+,Skyhub Skypark 1,8 Elliot Place,Glasgow,G3 8EP,29.96,Grid supplied,Natural Gas,73,00QS,00QSMK,15.8
+,Suite 6/5A Skypark SP1,Cornwall Street,Glasgow,G3 8EP,63.81,Grid supplied,Natural Gas,139,00QS,00QSMK,21.83
+,8a Elliot Place,Skypark SP1,Glasgow,G3 8EP,42.65,Grid supplied,Natural Gas,99,00QS,00QSMK,16.29
+,Suite 5/1 to 5/6 Skypark 1,8 Elliot Place,Glasgow,G3 8EP,51.89,Grid supplied,Natural Gas,115,00QS,00QSMK,17.57
+9.06701E+11,18 ELLIOT PLACE,,GLASGOW,G3 8EP,45.45,Grid supplied,Natural Gas,179,00QS,00QSMK,20.85
+9.067E+11,STOREY 6/2,8 ELLIOT PLACE,GLASGOW,G3 8EP,39.52,Grid supplied,Natural Gas,142,00QS,00QSMK,15.21
+9.067E+11,SUITE 3/1,14 ELLIOT PLACE,GLASGOW,G3 8EP,73.1,Grid supplied,Natural Gas,231,00QS,00QSMK,22.76
+,Cyclestore,162A Finnieston Square,Glasgow,G3 8ET,42.26,Grid supplied,Natural Gas,133,00QS,00QSMK,24.44
+9.067E+11,54 FINNIESTON SQUARE,,GLASGOW,G3 8ET,194.01,Grid supplied,Natural Gas,701,00QS,00QSMK,164.61
+,16 Stobcross Road,,Glasgow,G3 8GS,51.21,Grid supplied,Natural Gas,209,,,53.74
+9.067E+11,141 FINNIESTON STREET,,GLASGOW,G3 8HB,259.35,Grid supplied,Natural Gas,893,00QS,00QSMK,180.94
+9.067E+11,CAMPANILE HOTEL,10 TUNNEL STREET,GLASGOW,G3 8HL,67.34,Grid supplied,Natural Gas,362,00QS,00QSMK,53.01
+9.067E+11,28 TUNNEL STREET,,GLASGOW,G3 8HL,167.14,Grid supplied,Natural Gas,430,00QS,00QSMK,55.41
+,Hotel Finnieston Quay,25 Tunnel Street,Glasgow,G3 8HL,42.43,Grid supplied,Natural Gas,205,00QS,00QSMK,51.01
+,Hilton Garden Inn Hotel,Finnieston Quay,Glasgow,G3 8HN,75.79,Grid supplied,Natural Gas,238,00QS,00QSMK,57.03
+9.067E+11,133 Lancefield Street,,Glasgow,G3 8HZ,62.48,Grid supplied,Natural Gas,187,00QS,00QSMK,22.68
+9.067E+11,145 LANCEFIELD STREET,,GLASGOW,G3 8HZ,132.15,Grid supplied,Natural Gas,481,00QS,00QSMK,28.96
+,121-127  LANCEFIELD STREET,,GLASGOW,G3 8HZ,54.01,Grid supplied,Natural Gas,186,00QS,00QSMK,24.84
+,Unit 2,70 Lancefield Street,Glasgow,G3 8JD,65.92,Grid supplied,Natural Gas,177,00QS,00QSMK,21.54
+,Unit 1,70 Lancefield Street,Glasgow,G3 8JD,57.54,Grid supplied,Natural Gas,195,00QS,00QSMK,13.8
+9.067E+11,CRANSTONHILL POLICE OFFICE,945 ARGYLE STREET,GLASGOW,G3 8JG,181.19,Grid supplied,Natural Gas,716,00QS,00QSMK,91.47
+,Unit 2A Skypark SP5,45 Finnieston Street,Glasgow,G3 8JU,37.56,Grid supplied,Natural Gas,107,00QS,00QSMK,17.09
+,Unit 4B Skypark SP5,45 Finnieston Street,Glasgow,G3 8JU,32.49,Grid supplied,Natural Gas,93,00QS,00QSMK,16.62
+,Fast Food Restaurant,The Clydeway Centre & Skypark,Glasgow,G3 8JU,262.34,Grid supplied,Natural Gas,646,00QS,00QSMK,91.74
+,Unit 1C Skypark SP5,45 Finnieston Square,Glasgow,G3 8JU,37.98,Grid supplied,Natural Gas,101,00QS,00QSMK,14.55
+,Unit 3A Skypark SP5,45 Finnieston Street,Glasgow,G3 8JU,33.34,Grid supplied,Natural Gas,81,00QS,00QSMK,14.18
+,Unit 2B Skypark SP5,45 FInnieston Street,Glasgow,G3 8JU,33.35,Grid supplied,Natural Gas,78,00QS,00QSMK,13.49
+,Unit 1A,45 Skypark SP5,Glasgow,G3 8JU,41.26,Grid supplied,Natural Gas,117,00QS,00QSMK,15.58
+,Unit 5B Skypark SP5,45 Finnieston Street,Glasgow,G3 8JU,43.39,Grid supplied,Natural Gas,129,00QS,00QSMK,19.46
+,Unit 1B Skypark SP5,45 Finnieston Square,Glasgow,G3 8JU,44.45,Grid supplied,Natural Gas,127,00QS,00QSMK,14.42
+,Unit 3B Skypark SP5,45 Finnieston Street,Glasgow,G3 8JU,32.7,Grid supplied,Natural Gas,94,00QS,00QSMK,17.33
+,Unit 4C Skypark SP5,45 Finnieston Street,Glasgow,G3 8JU,33.54,Grid supplied,Natural Gas,93,00QS,00QSMK,16.55
+,Unit 5a Skypark SP5,45 Finnieston Street,Glasgow,G3 8JU,49.82,Grid supplied,Natural Gas,130,00QS,00QSMK,20.83
+9.067E+11,61 FINNIESTON STREET,,GLASGOW,G3 8JU,105.64,Grid supplied,Natural Gas,411,00QS,00QSMK,38.98
+,1A Houldsworth Street,Skyspark,Glasgow,G3 8JU,55.17,Grid supplied,Natural Gas,160,00QS,00QSMK,17.53
+,Unit 4A Skypark SP5,45 Finnieston Street,Glasgow,G3 8JU,29.6,Grid supplied,Natural Gas,101,00QS,00QSMK,14.61
+9.067E+11,10 MINERVA STREET,,GLASGOW,G3 8LD,88.63,Grid supplied,Natural Gas,230,00QS,00QSMK,23.8
+9.067E+11,,956 ARGYLE STREET,GLASGOW,G3 8LU,140.32,Grid supplied,Natural Gas,408,00QS,00QSMK,49.3
+9.067E+11,1004 Argyle St,,Glasgow,G3 8LU,175.85,Grid supplied,Natural Gas,561,00QS,00QSMK,57.49
+9.067E+11,1008 ARGYLE STREET,,GLASGOW,G3 8LX,144.43,Grid supplied,Natural Gas,361,00QS,00QSMK,57.62
+9.067E+11,1081 ARGYLE STREET,,GLASGOW,G3 8LZ,29.32,Grid supplied,Natural Gas,165,00QS,00QSMK,4.83
+9.067E+11,995 ARGYLE STREET,,GLASGOW,G3 8LZ,45.16,Grid supplied,Natural Gas,236,00QS,00QSMK,4.77
+9.067E+11,1079 ARGYLE STREET,,GLASGOW,G3 8LZ,30.93,Grid supplied,Natural Gas,161,00QS,00QSMK,3.75
+9.067E+11,1075 Argyle Street,,Glasgow,G3 8LZ,121.01,Grid supplied,Natural Gas,295,00QS,00QSMK,85.53
+,1101 Argyle Street,Finnieston,Glasgow,G3 8ND,99.26,Grid supplied,Natural Gas,266,00QS,00QSMK,28.8
+9.067E+11,1125 Argyle Street,,Glasgow,G3 8ND,202.35,Grid supplied,Natural Gas,585,00QS,00QSMK,73.96
+,Mercat Building GF,1103 Argyle Street,Glasgow,G3 8ND,85.61,Grid supplied,Natural Gas,225,00QS,00QSMK,17.89
+,Mercat Building UF,1103 Argyle Street,Glasgow,G3 8ND,78.42,Grid supplied,Natural Gas,234,00QS,00QSMK,16.46
+9.067E+11,49 ST VINCENT CRESCENT,,GLASGOW,G3 8NG,35.86,Grid supplied,Natural Gas,185,00QS,00QSMK,7.71
+9.067E+11,CAIRNCROSS HOUSE,20 KELVINHAUGH PLACE,GLASGOW,G3 8NH,18.15,Grid supplied,Natural Gas,92,00QS,00QSMK,6.28
+9.067E+11,52 ST VINCENT CRESCENT,,GLASGOW,G3 8NQ,34.24,Grid supplied,Natural Gas,177,00QS,00QSMK,3.37
+,Flat 2,51 St Vincent Street,Glasgow,G3 8NQ,56.62,Grid supplied,Natural Gas,281,00QS,00QSMK,15.73
+9.067E+11,51 ST VINCENT CRESCENT,,GLASGOW,G3 8NQ,69.55,Grid supplied,Natural Gas,201,00QS,00QSMK,18.94
+,3 Palmerston Place,,Glasgow,G3 8PA,17.83,Grid supplied,Natural Gas,92,00QS,00QSMK,6.11
+,69 Kelvinhaugh Street,,Glasgow,G3 8PE,17.45,Grid supplied,Natural Gas,90,00QS,00QSMK,5.9
+,45 Kelvinhaugh Street,,Glasgow,G3 8PE,17.1,Grid supplied,Natural Gas,88,00QS,00QSMK,5.79
+,85 Kelvinhaugh Street,,Glasgow,G3 8PE,17.1,Grid supplied,Natural Gas,88,00QS,00QSMK,5.79
+,91 Kelvinhaugh Street,,Glasgow,G3 8PE,17.45,Grid supplied,Natural Gas,90,00QS,00QSMK,6.1
+,61 Kelvinhaugh Street,,Glasgow,G3 8PE,17.85,Grid supplied,Natural Gas,91,00QS,00QSMK,6.23
+,27 Kelvinhaugh Street,,Glasgow,G3 8PE,17.1,Grid supplied,Natural Gas,88,00QS,00QSMK,5.79
+,77 Kelvinhaugh Street,,Glasgow,G3 8PE,17.1,Grid supplied,Natural Gas,88,00QS,00QSMK,5.79
+,53 Kelvinhaugh Street,,Glasgow,G3 8PE,17.1,Grid supplied,Natural Gas,88,00QS,00QSMK,5.79
+,107 Kelvinhaugh Street,,Glasgow,G3 8PX,29.13,Grid supplied,Natural Gas,146,00QS,00QSMK,17.47
+,115 Kelvinhaugh Street,,Glasgow,G3 8PX,17.4,Grid supplied,Natural Gas,92,00QS,00QSMK,6.67
+,Block A,145 Kelvinhaugh Street,Glasgow,G3 8PX,31.12,Grid supplied,Natural Gas,155,00QS,00QSMK,39.35
+,Block B,145 Kelvinhaugh Street,Glasgow,G3 8PX,22.65,Grid supplied,District Heating,127,00QS,00QSMK,24.19
+,Block C,145 Kelvinhaugh Street,Glasgow,G3 8PX,20.93,Grid supplied,District Heating,124,00QS,00QSMK,24.13
+,117 Kelvinhaugh Street,,Glasgow,G3 8PX,16.98,Grid supplied,Natural Gas,90,00QS,00QSMK,6.42
+,119 Kelvinhaugh Street,,Glasgow,G3 8PX,17.63,Grid supplied,Natural Gas,93,00QS,00QSMK,6.71
+,11 Kelvinhaugh Gate,,Glasgow,G3 8PY,20.95,Grid supplied,Natural Gas,109,00QS,00QSMK,7.22
+,7 Kelvinhaugh Gate,,Glasgow,G3 8PY,20.95,Grid supplied,Natural Gas,109,00QS,00QSMK,7.22
+,9 Kelvinhaugh Gate,,Glasgow,G3 8PY,20.95,Grid supplied,Natural Gas,109,00QS,00QSMK,7.22
+9.067E+11,1 Kelvinhaugh Gate,,Glasgow,G3 8PY,42.35,Grid supplied,Natural Gas,207,00QS,00QSMK,16.92
+,15 Kelvinhaugh Gate,,Glasgow,G3 8PY,19.07,Grid supplied,Natural Gas,100,00QS,00QSMK,7.19
+9.067E+11,3 Kelvinhaugh Gate,,Glasgow,G3 8PY,34.86,Grid supplied,Natural Gas,172,00QS,00QSMK,14.48
+,200 Old Dumbarton Road,,Glasgow,G3 8QB,15.79,Grid supplied,Natural Gas,86,00QS,00QSMK,10.2
+,Bridge House,180 Old Dumbarton Road,Glasgow,G3 8QB,34.38,Grid supplied,Natural Gas,142,00QS,00QSMK,41.61
+9.067E+11,Crowne Plaza Hotel,Congress Road,GLASGOW,G3 8QT,89.74,Grid supplied,Natural Gas,451,00QS,00QSMK,38.08
+9.067E+11,MARRIOTT HOTEL,500 ARGYLE STREET,GLASGOW,G3 8RR,96.65,Grid supplied,Natural Gas,416,00QS,00QSMK,58.92
+9.067E+11,RIVERSIDE MUSEUM,100 POINTHOUSE PLACE,Glasgow,G3 8RS,37.09,Grid supplied,Natural Gas,245,,,4.69
+,30 Yorkhill Street,,Glasgow,G3 8RY,29.42,Grid supplied,Natural Gas,139,00QS,00QSMK,16.23
+9.067E+11,9 THORNBANK STREET,,GLASGOW,G3 8SU,23.82,Grid supplied,Natural Gas,84,00QS,00QSMK,12.32
+,1134 Argyle Street,,Glasgow,G3 8TD,115.1,Grid supplied,Natural Gas,368,00QS,00QSMK,68.5
+9.067E+11,1146 Argyle Street,,Glasgow,G3 8TE,144.33,Grid supplied,Natural Gas,342,00QS,00QSMK,87.37
+9.067E+11,1202 Argyle Street,,Glasgow,G3 8TE,68.82,Grid supplied,Natural Gas,402,00QS,00QSMK,37.24
+9.067E+11,1190 Argyle Street,,Glasgow,G3 8TE,82.19,Grid supplied,Natural Gas,205,00QS,00QSMK,21.68
+9.067E+11,1260 ARGYLE STREET,,GLASGOW,G3 8TJ,174.42,Grid supplied,Natural Gas,454,00QS,00QSMK,38.79
+9.067E+11,1287 ARGYLE STREET,,GLASGOW,G3 8TL,30.03,Grid supplied,Natural Gas,73,00QS,00QSMK,14.14
+,1321 Argyle Street,,Glasgow,G3 8TL,195.21,Grid supplied,Natural Gas,627,00QS,00QSMK,81.37
+,Kelvingrove House,1331 Argyle Street,Glasgow,G3 8TL,95.95,Grid supplied,Natural Gas,301,00QS,00QSMK,81.52
+,Unit 1204,Argyle Street,Glasgow,G3 8TQ,23.06,Grid supplied,Natural Gas,120,00QS,00QSMK,6.15
+9.067E+11,DALIAN HOUSE,350 ST VINCENT STREET,GLASGOW,G3 8TS,38.36,Grid supplied,Natural Gas,109,00QS,00QSMK,9.86
+9.067E+11,69 Haugh Road,,Glasgow,G3 8TX,48.17,Grid supplied,Natural Gas,164,00QS,00QSMK,18.91
+9.067E+11,THE CLYDE AUDITORIUM,CONGRESS ROAD,GLASGOW,G3 8YW,88.97,Grid supplied,Natural Gas,193,00QS,00QSMK,23.55
+9.06701E+11,THE OVO HYDRO,CONGRESS ROAD,GLASGOW,G3 8YW,20.79,Grid supplied,Natural Gas,119,00QS,00QSMK,6.47
+9.067E+11,SCOTTISH EVENT CAMPUS,CONGRESS ROAD,GLASGOW,G3 8YW,45.87,Grid supplied,Natural Gas,248,00QS,00QSMK,5.3
+9.067E+11,BOOKER CASH AND CARRY,926 RUTHERGLEN ROAD,GLASGOW,G5 0AW,52.13,Grid supplied,Natural Gas,167,00QS,00QSMH,25.47
+,84 Toryglen Street,,Glasgow,G5 0BH,42.95,Grid supplied,Natural Gas,100,00QS,00QSMH,17.5
+,8,The Clyde Gateway,Glasgow,G5 0BJ,69.12,Grid supplied,Natural Gas,155,00QS,00QSMH,69.84
+,Unit 9,Gushetfaulds Place,Glasgow,G5 0DP,41.17,Grid supplied,Natural Gas,124,,,42.63
+,34 Elmfoot Grove,,Glasgow,G5 0LR,64.94,Grid supplied,Natural Gas,150,00QS,00QSMH,36.32
+,32 Elmfoot Grove,,Glasgow,G5 0LR,65.83,Grid supplied,Natural Gas,146,00QS,00QSMH,33.31
+9.067E+11,135 Moffat Street,,Glasgow,G5 0ND,64.72,Grid supplied,Natural Gas,171,00QS,00QSMH,22.56
+9.067E+11,123 Moffat Street,,Glasgow,G5 0ND,43.03,Grid supplied,Natural Gas,153,00QS,00QSMH,15.91
+,121 Moffat Street,,Glasgow,G5 0ND,68.68,Grid supplied,Natural Gas,213,00QS,00QSMH,20.96
+9.067E+11,68 MCNEIL STREET,,GLASGOW,G5 0NH,69.8,Grid supplied,Natural Gas,382,00QS,00QSMH,36.85
+,Unit 3 Riverside business park,5 Moffat Street,Glasgow,G5 0PD,64.29,Grid supplied,Natural Gas,227,00QS,00QSMH,19.42
+,Unit 4 Riverside business park,5 Moffat Street,Glasgow,G5 0PD,107.15,Grid supplied,Natural Gas,314,00QS,00QSMH,25.79
+,Unit 1 Riverside Business Park,5 Moffat Street,Glasgow,G5 0PD,115.86,Grid supplied,Natural Gas,316,00QS,00QSMH,30.81
+,Unit 7 Riverside business park,5 Moffat Street,Glasgow,G5 0PD,84.6,Grid supplied,Natural Gas,281,00QS,00QSMH,25.24
+,Unit 12 Riverside business park,5 Moffat Street,Glasgow,G5 0PD,111.86,Grid supplied,Natural Gas,307,00QS,00QSMH,39.12
+,Unit 10 Riverside Business Park,Moffat Street,Glasgow,G5 0PD,83.38,Grid supplied,Natural Gas,216,00QS,00QSMH,24.4
+9.067E+11,BUILDING 2 - UNIT 12,12 COMMERCIAL ROAD,GLASGOW,G5 0PQ,77.92,Grid supplied,Natural Gas,260,00QS,00QSMH,18.19
+9.067E+11,577 LAWMOOR STREET,,GLASGOW,G5 0TL,59.92,Grid supplied,Natural Gas,153,00QS,00QSMH,13.48
+9.067E+11,UNIT 5,18 ST LUKES PLACE,GLASGOW,G5 0TS,53.13,Grid supplied,Natural Gas,173,00QS,00QSMH,28.41
+9.067E+11,UNIT 1,10 ST LUKES PLACE,GLASGOW,G5 0TS,86.7,Grid supplied,Natural Gas,283,00QS,00QSMH,47.99
+9.067E+11,UNIT 4,16 ST LUKES PLACE,GLASGOW,G5 0TS,41.78,Grid supplied,Natural Gas,124,00QS,00QSMH,18.59
+9.067E+11,UNIT 2,12 ST LUKES PLACE,GLASGOW,G5 0TS,41.78,Grid supplied,Natural Gas,124,00QS,00QSMH,18.59
+9.067E+11,UNIT 3,14 ST LUKES PLACE,GLASGOW,G5 0TS,41.78,Grid supplied,Natural Gas,124,00QS,00QSMH,18.59
+9.067E+11,UNIT 9,26 ST LUKES PLACE,GLASGOW,G5 0TS,67.77,Grid supplied,Natural Gas,227,00QS,00QSMH,31.99
+,515 and 539 Lawmoor Street,,Glasgow,G5 0TT,51.18,Grid supplied,Natural Gas,111,00QS,00QSMH,14.62
+9.067E+11,573 LAWMOOR STREET,,GLASGOW,G5 0TT,12.63,Grid supplied,Natural Gas,68,00QS,00QSMH,0
+9.067E+11,515 Lawmoor Street,,Glasgow,G5 0TT,51.18,Grid supplied,Natural Gas,111,00QS,00QSMH,14.62
+,577 Lawmoor Street,,Glasgow,G5 0TT,49.18,Grid supplied,Natural Gas,254,00QS,00QSMH,11.74
+9.067E+11,585 Lawmoor Street,Dixon Blazes Industrial Estate,Glasgow,G5 0TT,70.6,Grid supplied,Natural Gas,235,00QS,00QSMH,23.62
+9.067E+11,PREMIER INN,80 BALLATER STREET,GLASGOW,G5 0TW,147.39,Grid supplied,Natural Gas,407,00QS,00QSMH,101.54
+9.06701E+11,GROUND FLOOR OFFICE,580 LAWMOOR STREET,GLASGOW,G5 0TX,20.94,Grid supplied,Natural Gas,112,00QS,00QSMH,3.17
+9.067E+11,568 LAWMOOR STREET,,GLASGOW,G5 0TY,118.42,Grid supplied,Natural Gas,447,00QS,00QSMH,25.87
+,Unit 1 & 3B,Southpoint,Glasgow,G5 0UG,79.63,Grid supplied,Natural Gas,237,00QS,00QSMH,23.61
+,Unit 6,Southpoint,Glasgow,G5 0UG,77.2,Grid supplied,Natural Gas,259,00QS,00QSMH,25.94
+,Unit 2,Southpoint,Glasgow,G5 0UG,75.7,Grid supplied,Natural Gas,223,00QS,00QSMH,22.58
+9.067E+11,16 LAWMOOR ROAD,,GLASGOW,G5 0UL,59.76,Grid supplied,Natural Gas,164,00QS,00QSMH,13.94
+9.067E+11,96 CALEDONIA STREET,,GLASGOW,G5 0XG,43.24,Grid supplied,Natural Gas,146,00QS,00QSMH,15.57
+,Unit E,24 Rosyth Road,Glasgow,G5 0YD,5.87,Grid supplied,Other,11,00QS,00QSMH,0.32
+9.067E+11,GORBALS LEISURE CENTRE,275 BALLATER STREET,GLASGOW,G5 0YP,98.32,Grid supplied,Natural Gas,288,00QS,00QSMH,42.22
+9.067E+11,35 COMMERCE STREET,,GLASGOW,G5 8AB,37.03,Grid supplied,Other,71,00QS,00QSME,18.91
+9.067E+11,100 WEST STREET,,GLASGOW,G5 8AW,55.53,Grid supplied,Natural Gas,315,00QS,00QSME,3.96
+9.067E+11,75 West Street,,Glasgow,G5 8BA,98.68,Grid supplied,Natural Gas,281,00QS,00QSME,25.71
+,119 West Street,,Glasgow,G5 8BA,102.2,Grid supplied,Natural Gas,374,00QS,00QSME,39.21
+,Suite 3-1,60 Tradeston Street,Glasgow,G5 8BH,87.12,Grid supplied,Natural Gas,308,00QS,00QSME,25.36
+,Attic,60 Tradeston Street,Glasgow,G5 8BH,46.65,Grid supplied,Natural Gas,162,00QS,00QSME,18.24
+,Suite 2-1,60 Tradeston Street,Glasgow,G5 8BH,62.62,Grid supplied,Natural Gas,195,00QS,00QSME,20.49
+,Suite 1-2,60 Tradeston Street,Glasgow,G5 8BH,58.38,Grid supplied,Natural Gas,257,00QS,00QSME,8.83
+,Communal Areas,60 Tradeston Street,Glasgow,G5 8BH,116.28,Grid supplied,Natural Gas,472,00QS,00QSME,20.9
+9.067E+11,45 TRADESTON STREET,,GLASGOW,G5 8BH,199.7,Grid supplied,Natural Gas,768,00QS,00QSME,31.52
+,Ground Rear,60 Tradeston Street,Glasgow,G5 8BH,30.07,Grid supplied,Natural Gas,114,00QS,00QSME,9.67
+,Suite 1-1,60 Tradeston Street,Glasgow,G5 8BH,64.23,Grid supplied,Natural Gas,189,00QS,00QSME,17.65
+9.067E+11,97 Kingston Street,,Glasgow,G5 8BJ,35.8,Grid supplied,Natural Gas,89,00QS,00QSME,14.4
+9.06701E+11,UNIT 8,67 TRADESTON STREET,GLASGOW,G5 8BL,41.09,Grid supplied,Natural Gas,134,00QS,00QSME,18.78
+9.067E+11,101 CENTRE STREET,,GLASGOW,G5 8BU,35.79,Grid supplied,Natural Gas,182,00QS,00QSME,5.54
+9.067E+11,53 WALLACE STREET,,GLASGOW,G5 8DJ,17.2,Grid supplied,Natural Gas,88,00QS,00QSME,2.97
+9.06701E+11,2 Clyde Place Lane,,Glasgow,G5 8DP,13.36,Grid supplied,Natural Gas,36,00QS,00QSME,18.27
+9.06701E+11,1 CLYDE PLACE LANE,,GLASGOW,G5 8DP,13.16,Grid supplied,Natural Gas,40,00QS,00QSME,15.73
+9.06701E+11,3 CLYDE PLACE LANE,,GLASGOW,G5 8DP,14.06,Grid supplied,Natural Gas,46,00QS,00QSME,16.14
+,54 Wallace Street,Tradeston,Glasgow,G5 8DU,52.12,Grid supplied,Natural Gas,163,00QS,00QSME,19.09
+,140-142 Nelson Street,Kingston,Glasgow,G5 8EJ,66.95,Grid supplied,Natural Gas,173,00QS,00QSME,20.25
+9.06701E+11,138 Nelson Street,Kingston,Glasgow,G5 8EJ,86.11,Grid supplied,Natural Gas,213,00QS,00QSME,21.49
+,Unit 1-5,110-114 Salkeld Street,Glasgow,G5 8HE,38.99,Grid supplied,Natural Gas,83,00QS,00QSME,16.93
+9.067E+11,90 Salkeld Street,,Glasgow,G5 8HE,59.39,Grid supplied,Natural Gas,176,00QS,00QSME,14.3
+,Building 3,32-36 Stromness Street,Glasgow,G5 8HS,108.25,Grid supplied,Natural Gas,522,00QS,00QSMF,11.63
+,Building 5,32-36 Stromness Street,Glasgow,G5 8HS,98.33,Grid supplied,Natural Gas,475,00QS,00QSMF,13.88
+,Building 6,32-36 Stromness Street,Glasgow,G5 8HS,34.93,Grid supplied,Natural Gas,173,00QS,00QSMF,3.03
+,Building 1,32-36 Stromness Street,Glasgow,G5 8HS,2.99,Grid supplied,Other,22,00QS,00QSMF,0
+,Building 7,32-36 Stromness Street,Glasgow,G5 8HS,32.81,Grid supplied,Natural Gas,182,00QS,00QSMF,2.43
+,Building 2,32-36 Stromness Street,Glasgow,G5 8HS,46.52,Grid supplied,Natural Gas,227,00QS,00QSMF,6.24
+9.067E+11,44 KILBIRNIE STREET,,GLASGOW,G5 8HX,42.63,Grid supplied,Natural Gas,135,00QS,00QSMF,9.59
+,Batleys,29 Kilbirnie St,Glasgow,G5 8JD,53.34,Grid supplied,Natural Gas,152,00QS,00QSMF,29.46
+9.067E+11,149 KILBIRNIE STREET,,GLASGOW,G5 8JH,72.04,Grid supplied,Oil,195,00QS,00QSMF,24.07
+9.067E+11,151 KILBIRNIE STREET,,GLASGOW,G5 8JH,68.5,Grid supplied,Natural Gas,208,00QS,00QSMF,19.07
+,54 Cook Street,,Glasgow,G5 8JN,70.1,Grid supplied,Oil,175,00QS,00QSME,17.51
+,54 Cook St,Kinning Park,GLASGOW,G5 8JQ,42.8,Grid supplied,Natural Gas,214,00QS,00QSME,3.85
+,Ground office,33 Dalintober Street,Glasgow,G5 8JZ,59.82,Grid supplied,Natural Gas,137,00QS,00QSME,20.69
+9.067E+11,FLAT 0/2,53 MORRISON STREET,GLASGOW,G5 8LB,75.11,Grid supplied,Natural Gas,221,00QS,00QSME,24.5
+9.067E+11,FLAT 0/1,53 MORRISON STREET,GLASGOW,G5 8LB,54.04,Grid supplied,Natural Gas,154,00QS,00QSME,16.2
+,Units 1&2,West Street Trading Estate,Glasgow,G5 8LG,32.41,Grid supplied,Natural Gas,160,00QS,00QSMF,4.94
+,Unit 6,West Street Trading Estate,Glasgow,G5 8LG,51.89,Grid supplied,Natural Gas,264,00QS,00QSMF,7.37
+,Unit 11-12,323 West Street,Glasgow,G5 8LG,85.63,Grid supplied,Natural Gas,291,00QS,00QSMF,27.8
+,Unit 4,West Street Trading Estate,Glasgow,G5 8LG,17.02,Grid supplied,Natural Gas,95,00QS,00QSMF,3.12
+,Units 9&10,West Street Trading Estate,Glasgow,G5 8LG,65.82,Grid supplied,Natural Gas,324,00QS,00QSMF,12.81
+,Units 11&12,West Street Trading Estate,Glasgow,G5 8LG,81.41,Grid supplied,Natural Gas,391,00QS,00QSMF,15.78
+,Unit 5,West Street Trading Estate,Glasgow,G5 8LG,42.77,Grid supplied,Natural Gas,225,00QS,00QSMF,6.03
+9.067E+11,124 Scotland Street,,Glasgow,G5 8LJ,75.22,Grid supplied,Natural Gas,186,00QS,00QSME,29.51
+9.067E+11,100 MORRISON STREET,,GLASGOW,G5 8LN,49.01,Grid supplied,Natural Gas,149,00QS,00QSME,12.35
+,1--3 Scotland Street,,Glasgow,G5 8LS,93.63,Grid supplied,Natural Gas,271,00QS,00QSME,41.47
+9.067E+11,13 SCOTLAND STREET,,GLASGOW,G5 8NB,50.14,Grid supplied,Natural Gas,142,00QS,00QSME,30.08
+9.067E+11,6 SPRINGFIELD QUAY,,GLASGOW,G5 8NP,104.83,Grid supplied,Natural Gas,384,00QS,00QSME,70.35
+,19/25 Carnoustie Place,,Glasgow,G5 8PA,63.36,Grid supplied,Natural Gas,311,00QS,00QSME,9.2
+,15/17 Carnoustie Place,,Glasgow,G5 8PA,22.7,Grid supplied,Natural Gas,134,00QS,00QSME,5.12
+,27/29 Carnoustie Place,,Glasgow,G5 8PA,20.99,Grid supplied,Natural Gas,103,00QS,00QSME,2.72
+,28/30 Carnoustie Place,Scotland Street,Glasgow,G5 8PH,15.58,Grid supplied,Natural Gas,94,00QS,00QSME,2.39
+,11 Carnoustie Place,,Glasgow,G5 8PH,91.02,Grid supplied,Natural Gas,366,00QS,00QSME,31.38
+9.067E+11,2-8 Carnoustie Place,,Glasgow,G5 8PH,68.23,Grid supplied,Natural Gas,254,00QS,00QSME,18.25
+9.067E+11,9 CARNOUSTIE PLACE,,GLASGOW,G5 8PH,87.75,Grid supplied,Natural Gas,364,00QS,00QSME,31.47
+,Unit 1F Kilbirnie Place,,Glasgow,G5 8QR,53.73,Grid supplied,Natural Gas,270,00QS,00QSMF,4.9
+,Unit 4 Kilbirnie Place,,Glasgow,G5 8QR,19.72,Grid supplied,Natural Gas,99,00QS,00QSMF,4.01
+,Unit 2 Kilbirnie Place,,Glasgow,G5 8QR,58.53,Grid supplied,Natural Gas,287,00QS,00QSMF,9.5
+,Unit 3 Kilbirnie Place,,Glasgow,G5 8QR,38.5,Grid supplied,Natural Gas,190,00QS,00QSMF,9.64
+9.067E+11,19 KILBIRNIE PLACE,,GLASGOW,G5 8QR,122.75,Grid supplied,Natural Gas,432,00QS,00QSMF,29.45
+,"Unit 1A, Kilbirnie Place",,Glasgow,G5 8QR,11.4,Grid supplied,Natural Gas,68,00QS,00QSMF,1.54
+9.067E+11,Travelodge,271 Paisley Road,Glasgow,G5 8RA,78.8,Grid supplied,Natural Gas,430,00QS,00QSME,63.7
+,474-476 Paisley Road,,Glasgow,G5 8RE,64.12,Grid supplied,Natural Gas,339,00QS,00QSME,44.4
+9.067E+11,466 Paisley Road,,Glasgow,G5 8RE,59.09,Grid supplied,Natural Gas,330,00QS,00QSME,26.95
+9.067E+11,480 PAISLEY ROAD,,GLASGOW,G5 8RE,115.7,Grid supplied,Natural Gas,339,00QS,00QSME,54.98
+9.067E+11,447 Paisley Road,,Glasgow,G5 8RJ,70.86,Grid supplied,Natural Gas,199,00QS,00QSME,18.69
+9.067E+11,459 Paisley Road,,Glasgow,G5 8RJ,123.98,Grid supplied,Natural Gas,272,00QS,00QSME,22.7
+9.067E+11,44 Watt Street,,Glasgow,G5 8RR,38.39,Grid supplied,Natural Gas,91,00QS,00QSME,18.74
+,Kinning Park Ind Estate,21 Watt Street,Glasgow,G5 8RR,35.16,Grid supplied,Natural Gas,187,00QS,00QSME,8.13
+,Units 3 & 4,25 Watt Street,Glasgow,G5 8RR,68.83,Grid supplied,Natural Gas,337,00QS,00QSME,16.74
+,Kinning Park Industrial Estate,25 Houston Street,Glasgow,G5 8RS,12.65,Grid supplied,Natural Gas,74,00QS,00QSME,0.84
+,33 Houston Street,,Glasgow,G5 8RS,45.4,Grid supplied,Natural Gas,225,00QS,00QSME,7.45
+,Kinning Park Ind Est U1,46 Houston Street,Glasgow,G5 8RS,19.88,Grid supplied,Natural Gas,102,00QS,00QSME,1.35
+,Kinning Park Ind Est U3,42 Houston Street,Glasgow,G5 8RS,23.72,Grid supplied,Natural Gas,126,00QS,00QSME,6.06
+,Kinning Park Ind Est U2,44 Houston Street,Glasgow,G5 8RS,28.87,Grid supplied,Natural Gas,145,00QS,00QSME,4.9
+,Kinning Park Ind Estate,19 Houston Place,Glasgow,G5 8SG,39.8,Grid supplied,Natural Gas,198,00QS,00QSME,9
+,Kinning Park Ind Estate,3 Houston Place,Glasgow,G5 8SG,73.32,Grid supplied,Natural Gas,381,00QS,00QSME,9.9
+,Kinning Park Ind Estate,6 Houston Place,Glasgow,G5 8SG,8.68,Grid supplied,Natural Gas,52,00QS,00QSME,0.69
+,Kinning Park Ind Estate,5 Houston Place,Glasgow,G5 8SG,13.22,Grid supplied,Natural Gas,71,00QS,00QSME,2.37
+,Kinning Park Ind Estate,12 Houston Place,Glasgow,G5 8SG,40.91,Grid supplied,Natural Gas,204,00QS,00QSME,10.24
+,6 Houston Place,Kingston Bridge Trading Estate,Glasgow,G5 8SG,38.81,Grid supplied,Natural Gas,92,00QS,00QSME,22.8
+,2 Sandiefield Road,,Glasgow,G5 9AB,15.88,Grid supplied,Natural Gas,57,,,17.95
+9.06701E+11,FLAT 0/2,150 CROWN STREET,GLASGOW,G5 9BE,19.79,Grid supplied,Natural Gas,69,00QS,00QSMH,21.27
+9.067E+11,Sheriff Court of Glasgow,1 Carlton Place,Glasgow,G5 9DA,32.3,Grid supplied,Natural Gas,106,00QS,00QSMH,10.9
+9.067E+11,CITIZENS THEATRE,119 GORBALS STREET,GLASGOW,G5 9DS,23.29,Grid supplied,Natural Gas,123,00QS,00QSMH,13.06
+,101 Gorbals Street,,Glasgow,G5 9DW,25.24,Grid supplied,Natural Gas,145,00QS,00QSMH,6.85
+,"Ground Floor Suite 2, 4 and 7",101 Gorbals Street,Glasgow,G5 9DW,24.1,Grid supplied,Natural Gas,80,00QS,00QSMH,16
+9.06701E+11,GROUND FLOOR SUITE 5A,101 GORBALS STREET,GLASGOW,G5 9DW,22.1,Grid supplied,Natural Gas,74,00QS,00QSMH,15.03
+,Ground Floor Suite 3 and 5,101 Gorbals Street,Glasgow,G5 9DW,21.8,Grid supplied,Natural Gas,71,00QS,00QSMH,15.52
+9.067E+11,100 NORFOLK STREET,,GLASGOW,G5 9EJ,46.19,Grid supplied,Natural Gas,133,00QS,00QSMH,14.75
+,16 Nicholson Street,,Glasgow,G5 9ER,49.78,Grid supplied,Natural Gas,258,00QS,00QSMH,8.44
+9.067E+11,58 Bridge Street,,Glasgow,G5 9HU,134.47,Grid supplied,Natural Gas,663,00QS,00QSME,49.83
+9.067E+11,69 BRIDGE STREET,,GLASGOW,G5 9JB,72.77,Grid supplied,Natural Gas,398,00QS,00QSMH,31.58
+9.067E+11,61 Bridge Street,,Glasgow,G5 9JB,120.99,Grid supplied,Natural Gas,405,00QS,00QSMH,64.37
+9.067E+11,37 SOUTH PORTLAND STREET,,GLASGOW,G5 9JL,59.54,Grid supplied,Natural Gas,307,00QS,00QSMH,16.25
+,Glasgow House 3,99 Norfolk Street,Glasgow,G5 9LQ,38.55,Grid supplied,Natural Gas,131,00QS,00QSMH,20.42
+9.067E+11,99 Norfolk Street,,Glasgow,G5 9LQ,70.85,Grid supplied,Natural Gas,222,00QS,00QSMH,16.24
+,Glasgow House 1,99 Norfolk Street,Glasgow,G5 9LQ,38.55,Grid supplied,Natural Gas,131,00QS,00QSMH,20.42
+,Glasgow House 2,99 Norfolk Street,Glasgow,G5 9LQ,38.9,Grid supplied,Natural Gas,133,00QS,00QSMH,20.55
+,Glasgow House 4,99 Norfolk Street,Glasgow,G5 9LQ,38.9,Grid supplied,Natural Gas,133,00QS,00QSMH,20.55
+9.067E+11,10 BALLATER STREET,,GLASGOW,G5 9PS,17.66,Grid supplied,Natural Gas,102,00QS,00QSMH,2.73
+9.067E+11,24 CUMBERLAND STREET,,GLASGOW,G5 9QJ,43.18,Grid supplied,Natural Gas,149,00QS,00QSMH,15.11
+9.067E+11,40 CUMBERLAND STREET,,GLASGOW,G5 9QJ,78.9,Grid supplied,Natural Gas,307,00QS,00QSMH,24.93
+9.067E+11,46 CUMBERLAND STREET,,GLASGOW,G5 9QJ,37.07,Grid supplied,Natural Gas,127,00QS,00QSMH,17.26
+9.067E+11,12 CUMBERLAND STREET,,GLASGOW,G5 9QJ,67.47,Grid supplied,Natural Gas,213,00QS,00QSMH,36.84
+9.067E+11,42 CUMBERLAND STREET,,GLASGOW,G5 9QJ,25.32,Grid supplied,Natural Gas,108,00QS,00QSMH,14.84
+9.067E+11,48 CUMBERLAND STREET,,GLASGOW,G5 9QJ,86.54,Grid supplied,Natural Gas,265,00QS,00QSMH,31.15
+,76-83 Carlton Place,,Glasgow,G5 9TD,60.13,Grid supplied,Natural Gas,176,00QS,00QSMH,16.63
+9.067E+11,78 Carlton Place,,Glasgow,G5 9TD,60.13,Grid supplied,Natural Gas,176,00QS,00QSMH,16.63
+,71 Carlton Place,,Glasgow,G5 9TD,136.58,Grid supplied,Natural Gas,369,00QS,00QSMH,32.18
+9.067E+11,73 Carlton Place,,Glasgow,G5 9TD,93.33,Grid supplied,Natural Gas,283,00QS,00QSMH,32.17
+9.067E+11,84 CARLTON PLACE,,GLASGOW,G5 9TD,42.14,Grid supplied,Natural Gas,120,00QS,00QSMH,12.36
+,Ground,54 Carlton Place,Glasgow,G5 9TW,55.47,Grid supplied,Natural Gas,155,00QS,00QSMH,18.15
+,Front Basement,54 Carlton Place,Glasgow,G5 9TW,39.82,Grid supplied,Natural Gas,109,00QS,00QSMH,19.06
+9.067E+11,BASEMENT,40 CARLTON PLACE,GLASGOW,G5 9TW,43.43,Grid supplied,Natural Gas,152,00QS,00QSMH,17.3
+,Floor 4,63 Carlton Place,Glasgow,G5 9TW,89.65,Grid supplied,Natural Gas,292,00QS,00QSMH,19.04
+9.067E+11,STOREY 2,63 CARLTON PLACE,GLASGOW,G5 9TW,60.44,Grid supplied,Natural Gas,171,00QS,00QSMH,15.77
+9.067E+11,STOREY 1,54 CARLTON PLACE,GLASGOW,G5 9TW,76.25,Grid supplied,Natural Gas,229,00QS,00QSMH,22.32
+,Storey 1,63 Carlton Place,Glasgow,G5 9TW,78.13,Grid supplied,Natural Gas,244,00QS,00QSMH,18.65
+9.067E+11,STOREY BASEMENT,54 CARLTON PLACE,GLASGOW,G5 9TW,42.06,Grid supplied,Natural Gas,119,00QS,00QSMH,21.95
+9.067E+11,Ground Floor (Front Left),Carlton Buildings,Glasgow,G5 9TW,67.39,Grid supplied,Natural Gas,149,00QS,00QSMH,20.43
+9.067E+11,Storey 3,63 Carlton Place,Glasgow,G5 9TW,67.07,Grid supplied,Natural Gas,199,00QS,00QSMH,18.97
+9.067E+11,48 Carlton Place,,Glasgow,G5 9TW,122.63,Grid supplied,Natural Gas,364,00QS,00QSMH,40.06
+,Marine Skills Centre,21 Thistle Street,Glasgow,G5 9XB,39.66,Grid supplied,Natural Gas,134,00QS,00QSMH,12.71
+9.067E+11,187 CROWN STREET,,GLASGOW,G5 9XT,23.94,Grid supplied,Natural Gas,80,00QS,00QSMH,27.29
+9.067E+11,PARK BAR,442 PAISLEY ROAD WEST,GLASGOW,G51 1BE,148.88,Grid supplied,Natural Gas,542,00QS,00QSME,69.56
+,Kensington Bar,408 Paisley Road West,Glasgow,G51 1BE,71.28,Grid supplied,Natural Gas,409,00QS,00QSME,26.51
+9.067E+11,410 PAISLEY ROAD WEST,,GLASGOW,G51 1BE,143.39,Grid supplied,Natural Gas,570,00QS,00QSME,77.02
+9.067E+11,264 Paisley Road West,,Glasgow,G51 1BN,55.54,Grid supplied,Natural Gas,158,00QS,00QSME,15.46
+,District Bar,252 Paisley Road West,Glasgow,G51 1BS,59.38,Grid supplied,Natural Gas,335,00QS,00QSME,22.99
+9.067E+11,218 PAISLEY ROAD WEST,,GLASGOW,G51 1BU,106.67,Grid supplied,Natural Gas,426,00QS,00QSME,64.38
+9.067E+11,9 HARVIE STREET,,GLASGOW,G51 1BW,91.05,Grid supplied,Natural Gas,312,00QS,00QSME,39
+9.067E+11,VILLAGE HOTEL,7 FESTIVAL GATE,GLASGOW,G51 1DB,69.55,Grid supplied,Natural Gas,356,00QS,00QSME,61.59
+,Festival Court 1,200 Brand Street,Glasgow,G51 1DH,20.77,Grid supplied,Natural Gas,118,00QS,00QSME,4.75
+,Festival Court,198 Brand Street,Glasgow,G51 1DH,49.9,Grid supplied,Natural Gas,122,00QS,00QSME,19.61
+,Festival Court,199 Brand Street,Glasgow,G51 1DH,46.46,Grid supplied,Natural Gas,119,00QS,00QSME,19.6
+,Festival Court,200 Brand Street,Glasgow,G51 1DH,46.25,Grid supplied,Natural Gas,119,00QS,00QSME,19.6
+,56-58 Brand Street,,Glasgow,G51 1DJ,83.17,Grid supplied,Natural Gas,208,00QS,00QSME,37.55
+,Administration Building Ailsa Craig Nursing Home,101,Glasgow,G51 1DJ,78.4,Grid supplied,Natural Gas,279,00QS,00QSME,33.32
+,52 & 62 Brand Street,,Glasgow,G51 1DJ,55.82,Grid supplied,Natural Gas,140,00QS,00QSME,18.32
+,Millport Building Ailsa Craig Nursing Home,101,Glasgow,G51 1DJ,143.18,Grid supplied,Natural Gas,580,00QS,00QSME,99.91
+,Rothesay Building Ailsa Craig Nursing Home,101,Glasgow,G51 1DJ,143.09,Grid supplied,Natural Gas,580,00QS,00QSME,100.03
+,Bute Building Ailsa Craig Nursing Home,101,Glasgow,G51 1DJ,143.09,Grid supplied,Natural Gas,580,00QS,00QSME,100.03
+9.067E+11,AILSA CRAIG NURSING HOME,101 BRAND STREET,GLASGOW,G51 1DJ,41.9,Grid supplied,Natural Gas,222,00QS,00QSME,40.01
+,54 & 60 Brand Street,,Glasgow,G51 1DJ,78.19,Grid supplied,Natural Gas,221,00QS,00QSME,22.38
+,64-68 Brand Street,,Glasgow,G51 1DJ,103.87,Grid supplied,Natural Gas,346,00QS,00QSME,45.97
+9.067E+11,19 BRAND PLACE,,GLASGOW,G51 1DR,65.61,Grid supplied,Natural Gas,199,00QS,00QSME,28.97
+,1 Pacific Quay,,Glasgow,G51 1DZ,43.53,Grid supplied,Natural Gas,144,00QS,00QSME,18.41
+9.067E+11,THE HUB,70 PACIFIC QUAY,GLASGOW,G51 1DZ,43.6,Grid supplied,Natural Gas,97,00QS,00QSME,14.58
+9.067E+11,GLASGOW SCIENCE CENTRE,50 PACIFIC QUAY,GLASGOW,G51 1EA,57.77,Grid supplied,Natural Gas,160,00QS,00QSME,26.06
+9.067E+11,Kinning Park Nursing Home,,Glasgow,G51 1HA,64.42,Grid supplied,Natural Gas,331,00QS,00QSME,40.93
+9.067E+11,77 MAVISBANK GARDENS,,GLASGOW,G51 1HF,112.91,Grid supplied,Oil,280,00QS,00QSME,58.67
+,Argyll House,209 Govan Road,Glasgow,G51 1HJ,103.04,Grid supplied,Natural Gas,379,00QS,00QSME,61.57
+9.067E+11,22 Govan Road,,Glasgow,G51 1HS,69.9,Grid supplied,Natural Gas,246,00QS,00QSME,48.19
+9.067E+11,24 Govan Road,,Glasgow,G51 1HS,45.76,Grid supplied,Natural Gas,167,00QS,00QSME,22.76
+9.067E+11,54 GOVAN ROAD,,GLASGOW,G51 1JL,31.81,Grid supplied,Natural Gas,62,00QS,00QSME,19.36
+9.067E+11,253 Paisley Road West,,Glasgow,G51 1NB,65.58,Grid supplied,Natural Gas,204,00QS,00QSME,28.37
+9.067E+11,40 GOWER STREET,,GLASGOW,G51 1PH,115.53,Grid supplied,Natural Gas,301,00QS,00QSME,12.04
+9.067E+11,STV STUDIOS,120 GOVAN ROAD,GLASGOW,G51 1PQ,13.83,Grid supplied,Natural Gas,86,00QS,00QSME,2.82
+,4 Pacific Quay,,Glasgow,G51 1PQ,44.05,Grid supplied,Natural Gas,99,00QS,00QSME,17.31
+9.067E+11,UNIT 4000 ACADEMY PARK,51 GOWER STREET,GLASGOW,G51 1PR,55.2,Grid supplied,Natural Gas,182,00QS,00QSME,20.13
+,"Building 4000, 1st Floor, Academy Park",51 Gower Steet,Glasgow,G51 1PR,34.61,Grid supplied,Natural Gas,172,00QS,00QSME,4.37
+9.067E+11,UNIT 11000 ACADEMY PARK,51 GOWER STREET,GLASGOW,G51 1PR,45.32,Grid supplied,Natural Gas,114,00QS,00QSME,20.58
+,"Building 9000, 1st Floor, Academy Park",51 Gower Steet,Glasgow,G51 1PR,33.66,Grid supplied,Natural Gas,169,00QS,00QSME,4.01
+9.067E+11,UNIT 5000 ACADEMY PARK,51 GOWER STREET,GLASGOW,G51 1PR,54.8,Grid supplied,Natural Gas,167,00QS,00QSME,20.43
+,Unit 8000,51 Gower Street,Glasgow,G51 1PR,47.73,Grid supplied,Natural Gas,154,00QS,00QSME,19.37
+,,423  Paisley Road West,Glasgow,G51 1PZ,68.1,Grid supplied,Natural Gas,270,00QS,00QSME,14.88
+,Bellahouston Business Centre,423 Paisley Road West,Glasgow,G51 1PZ,42.63,Grid supplied,Natural Gas,166,00QS,00QSME,14.19
+,425 Paisley Road West,,Glasgow,G51 1PZ,43.17,Grid supplied,Natural Gas,130,00QS,00QSME,22.22
+9.067E+11,517 PAISLEY ROAD WEST,,GLASGOW,G51 1RW,178.74,Grid supplied,Natural Gas,598,00QS,00QSME,72.53
+,Unit A and B,60 Dava Street,Glasgow,G51 2BQ,74.05,Grid supplied,Natural Gas,247,00QS,00QSME,29.94
+,Unit C,60 Dava Street,Glasgow,G51 2BQ,71.65,Grid supplied,Natural Gas,244,00QS,00QSME,31.78
+,"Unit E,F and G",60 Dava Street,Glasgow,G51 2BQ,51.35,Grid supplied,Natural Gas,162,00QS,00QSME,27.55
+9.067E+11,10 DAVA STREET,,GLASGOW,G51 2BQ,43.39,Grid supplied,Natural Gas,94,00QS,00QSME,13.23
+,Unit D,60 Dava Street,Glasgow,G51 2BQ,72.07,Grid supplied,Natural Gas,221,00QS,00QSME,32.33
+9.06701E+11,Office 1,11 Orton Place,Glasgow,G51 2HF,68.73,Grid supplied,Natural Gas,207,00QS,00QSME,29.51
+9.06701E+11,OFFICE 4,11 ORTON PLACE,GLASGOW,G51 2HF,75.57,Grid supplied,Natural Gas,189,00QS,00QSME,22.57
+9.06701E+11,OFFICE 2,11 ORTON PLACE,GLASGOW,G51 2HF,66.69,Grid supplied,Natural Gas,158,00QS,00QSME,20.95
+,Units 8&9,15 Orton Place,Glasgow,G51 2HF,77.48,Grid supplied,Natural Gas,217,00QS,00QSME,19.79
+,Unit 4 Moorpark Industrial Estate,15 Orton Place,Glasgow,G51 2HF,62.33,Grid supplied,Natural Gas,172,00QS,00QSME,8.75
+,1 Orton Place,Moorpark House,Glasgow,G51 2HF,83.31,Grid supplied,Natural Gas,220,00QS,00QSME,26.41
+9.067E+11,49 Orton Place,,Glasgow,G51 2HF,38.24,Grid supplied,Natural Gas,89,00QS,00QSME,13.07
+,Unit 5B First Floor,27 Dava Street,Glasgow,G51 2JA,18.13,Grid supplied,Natural Gas,104,00QS,00QSME,3.82
+,Ground Floor,27 Dava Street,Glasgow,G51 2JA,13.82,Grid supplied,Natural Gas,86,00QS,00QSME,2.9
+,First Floor Pavilion 5A,25 Dava Street,Glasgow,G51 2JA,12.34,Grid supplied,Natural Gas,67,00QS,00QSME,4.25
+9.067E+11,15 DAVA STREET,,GLASGOW,G51 2JA,11.19,Grid supplied,Natural Gas,66,00QS,00QSME,3.85
+,Ground Floor Pavilion 5A,25 Dava Street,Glasgow,G51 2JA,13.13,Grid supplied,Natural Gas,77,00QS,00QSME,3.72
+9.067E+11,21 DAVA STREET,,GLASGOW,G51 2JA,43.39,Grid supplied,Natural Gas,94,00QS,00QSME,13.23
+9.067E+11,Moorpark Court,5 Dava Street,Glasgow,G51 2JA,48,Grid supplied,Natural Gas,132,00QS,00QSME,19.89
+9.067E+11,3 DAVA STREET,,GLASGOW,G51 2JA,46,Grid supplied,Natural Gas,94,00QS,00QSME,18.3
+9.067E+11,17 DAVA STREET,,GLASGOW,G51 2JA,15.31,Grid supplied,Natural Gas,82,00QS,00QSME,3.87
+9.067E+11,9 DAVA STREET,,GLASGOW,G51 2JA,42.19,Grid supplied,Natural Gas,105,00QS,00QSME,14.25
+,191 Broomloan Road,Ibrox,Glasgow,G51 2JE,39.62,Grid supplied,Natural Gas,132,00QS,00QSME,7.03
+9.06701E+11,UNIT C,191 BROOMLOAN ROAD,GLASGOW,G51 2JE,21.81,Grid supplied,Other,42,00QS,00QSME,2.51
+,Unit 4 Davieland Court,22 Broomloan Place,Glasgow,G51 2JR,87.65,Grid supplied,Natural Gas,443,00QS,00QSME,9.55
+,Unit 1 Davieland Court,Ibrox Business Park,Glasgow,G51 2JR,33.57,Grid supplied,Natural Gas,125,00QS,00QSME,20.89
+,Unit 3  Invergyle Court,Ibrox Business Park,Glasgow,G51 2JR,71.35,Grid supplied,Natural Gas,194,00QS,00QSME,35.36
+9.067E+11,1 BROOMLOAN PLACE,,GLASGOW,G51 2JR,64.9,Grid supplied,Natural Gas,209,00QS,00QSME,14.93
+,Unit 2 Norwood Court,Ibrox Business Park,Glasgow,G51 2JR,58,Grid supplied,Natural Gas,201,00QS,00QSME,27.37
+,Unit 4,Invergyle Court,Glasgow,G51 2JR,54.55,Grid supplied,Natural Gas,155,00QS,00QSME,24.82
+,Unit 2 Roseberry Court,Ibrox Business Park,Glasgow,G51 2JR,69.46,Grid supplied,Natural Gas,251,00QS,00QSME,30.68
+,Unit 1 Norwood Court,Ibrox Business Park,Glasgow,G51 2JR,68.6,Grid supplied,Natural Gas,214,00QS,00QSME,37.62
+9.067E+11,SOUTH GLASGOW BAPTIST CHURCH,425 GOVAN ROAD,GLASGOW,G51 2PW,39.05,Grid supplied,Natural Gas,202,00QS,00QSME,10.41
+,40 Carmichael Street,,Glasgow,G51 2QU,62.52,Grid supplied,Natural Gas,281,00QS,00QSME,14.75
+,"Unit F, G and H Woodville Court",Woodville Street,Glasgow,G51 2RL,63.78,Grid supplied,Natural Gas,317,00QS,00QSME,23.38
+,Beech House,"Clifford Court, Ibrox Business Park",Glasgow,G51 2RQ,47.05,Grid supplied,Natural Gas,129,00QS,00QSME,17.72
+9.067E+11,209 WOODVILLE STREET,,GLASGOW,G51 2RQ,40.43,Grid supplied,Natural Gas,202,00QS,00QSME,5.28
+9.067E+11,157-159 Woodville Street G51 2RQ,,Glasgow,G51 2RQ,70.67,Grid supplied,Natural Gas,209,00QS,00QSME,26.89
+,Unit 4,"Clifford Court, Ibrox Business Park",Glasgow,G51 2RQ,91.05,Grid supplied,Natural Gas,379,00QS,00QSME,40.55
+,1 Albion Court Ibrox Business Park,157 Woodville Street,Glasgow,G51 2RQ,36.01,Grid supplied,Natural Gas,115,00QS,00QSME,15.01
+,Suite 1 and 2,161-181 Whitefield Road,Glasgow,G51 2SD,39.46,Grid supplied,Natural Gas,130,00QS,00QSME,15.06
+9.067E+11,119 WHITEFIELD ROAD,,GLASGOW,G51 2SD,119.73,Grid supplied,Oil,307,00QS,00QSME,16.29
+,Ground Floor Part Mariner House Watermark Business Park,355 Govan Road,Glasgow,G51 2SE,60.03,Grid supplied,Natural Gas,142,00QS,00QSME,29.95
+9.067E+11,365 GOVAN ROAD,,GLASGOW,G51 2SE,15.57,Grid supplied,Natural Gas,98,00QS,00QSME,3.38
+9.067E+11,375 GOVAN ROAD,,GLASGOW,G51 2SE,37.59,Grid supplied,Natural Gas,109,00QS,00QSME,17
+,Ground Floor Pavilion 8 Watermark Business Park,315 Govan Road,Glasgow,G51 2SE,58.4,Grid supplied,Natural Gas,166,00QS,00QSME,17.21
+,"Pavilion 7, Watermark Business Park",325 Govan Road,Glasgow,G51 2SE,73.99,Grid supplied,Natural Gas,184,00QS,00QSME,25.88
+9.067E+11,11 Fairley Street,,Glasgow,G51 2SN,129.89,Grid supplied,Natural Gas,467,00QS,00QSME,27.09
+,15 Fairley Street,,Glasgow,G51 2SN,99.32,Grid supplied,Natural Gas,455,00QS,00QSME,25.81
+9.067E+11,38 IBROX TERRACE,,GLASGOW,G51 2TB,28.82,Grid supplied,Natural Gas,97,00QS,00QSME,13.08
+9.067E+11,158 COPLAND ROAD,,GLASGOW,G51 2UE,54.58,Grid supplied,Natural Gas,169,00QS,00QSME,30.09
+,Copland House Ibrox Stadium,Edmiston Drive,Glasgow,G51 2XD,88.41,Grid supplied,Natural Gas,352,00QS,00QSME,26.88
+9.067E+11,IBROX COMMUNITY TRUST,80 HINSHELWOOD DRIVE,GLASGOW,G51 2XP,136.4,Grid supplied,Natural Gas,530,00QS,00QSME,90.62
+9.067E+11,35 WHITEFIELD ROAD,,GLASGOW,G51 2YB,43.63,Grid supplied,Natural Gas,152,00QS,00QSME,17.27
+9.067E+11,705 GOVAN ROAD,,GLASGOW,G51 2YJ,65.12,Grid supplied,Natural Gas,198,00QS,00QSME,17.65
+,Unit 1,246 Edmiston Drive,Glasgow,G51 2YY,93.8,Grid supplied,Natural Gas,267,00QS,00QSME,48.14
+,Unit 2 and 4,240 Edmiston Drive,Glasgow,G51 2YY,59.86,Grid supplied,Natural Gas,132,00QS,00QSME,18.94
+9.067E+11,20 WANLOCK STREET,,GLASGOW,G51 3AB,71.4,Grid supplied,Natural Gas,246,00QS,00QSME,47.38
+,Govan Road Building,6 Harmony Row,Glasgow,G51 3BA,86.72,Grid supplied,Natural Gas,258,00QS,00QSME,15.72
+9.067E+11,6 HARMONY ROW,,GLASGOW,G51 3BA,89.41,Grid supplied,Natural Gas,326,00QS,00QSME,16.67
+,Roseneath Street Building,6 Harmony Row,Glasgow,G51 3BA,80.3,Grid supplied,Natural Gas,296,00QS,00QSME,16.72
+9.067E+11,803 GOVAN ROAD,,GLASGOW,G51 3DJ,138.44,Grid supplied,Natural Gas,408,00QS,00QSME,45.06
+9.067E+11,881 GOVAN ROAD,,GLASGOW,G51 3DN,51.33,Grid supplied,Natural Gas,278,00QS,00QSME,26.85
+9.067E+11,907 GOVAN ROAD,,GLASGOW,G51 3DN,59.69,Grid supplied,Natural Gas,312,00QS,00QSME,38.37
+,Warehouse 1,65 Craigton Road,Glasgow,G51 3EQ,68.15,Grid supplied,Natural Gas,207,00QS,00QSME,20.2
+,Turner Access,65 Craigton Road,Glasgow,G51 3EQ,39.41,Grid supplied,Natural Gas,207,00QS,00QSME,6.9
+,Mitchells Powersystems Ltd,65 Craigton Road,Glasgow,G51 3EQ,37.63,Grid supplied,Natural Gas,216,00QS,00QSME,4.75
+,University of Glasgow,65 Craigton Road,Glasgow,G51 3EQ,38.62,Grid supplied,Natural Gas,190,00QS,00QSME,4.83
+,Turner HQ Building,65 Craigton Road,Glasgow,G51 3EQ,42.1,Grid supplied,Natural Gas,223,00QS,00QSME,5.96
+,Assembly Unit,133 Helen Street,Glasgow,G51 3HA,79.14,Grid supplied,Natural Gas,318,00QS,00QSME,14.47
+9.067E+11,23 ROBERT STREET,,GLASGOW,G51 3HB,37.8,Grid supplied,Natural Gas,82,00QS,00QSME,12.53
+,"Unit C, D and E  Citylink Industrial Estate",Helen Street,Glasgow,G51 3HD,39.49,Grid supplied,Natural Gas,144,00QS,00QSME,27.66
+,Unit J and K Citylink Industrial Estate,Helen Street,Glasgow,G51 3HD,66.07,Grid supplied,Natural Gas,232,00QS,00QSME,40.15
+,Storage Building,133 Helen Street,Glasgow,G51 3HD,71.83,Grid supplied,Natural Gas,319,00QS,00QSME,27.57
+,73 Birkmyre Road,,Glasgow,G51 3HD,45.95,Grid supplied,Natural Gas,146,00QS,00QSME,11.7
+,Office Building,133 Helen Street,Glasgow,G51 3HD,78.33,Grid supplied,Natural Gas,281,00QS,00QSME,18.71
+,Unit B Citylink Industrial Estate,Helen Street,Glasgow,G51 3HD,31.9,Grid supplied,Other,61,00QS,00QSME,9.97
+,Unit A Citylink Industrial Estate,Helen Street,Glasgow,G51 3HD,66.82,Grid supplied,Natural Gas,259,00QS,00QSME,30.95
+,Workshop & Warehouse,133 Helen Street,Glasgow,G51 3HD,67.47,Grid supplied,Natural Gas,241,00QS,00QSME,18.75
+,High Bay Building,133 Helen Street,Glasgow,G51 3HD,95.01,Grid supplied,Natural Gas,324,00QS,00QSME,42.71
+9.067E+11,3 ROBERT DRIVE,,GLASGOW,G51 3HE,77.81,Grid supplied,Natural Gas,272,00QS,00QSME,30.26
+9.067E+11,17 ROBERT DRIVE,,GLASGOW,G51 3HE,20.57,Grid supplied,Natural Gas,111,00QS,00QSME,4
+9.067E+11,15 ROBERT DRIVE,,GLASGOW,G51 3HE,5.06,Grid supplied,Natural Gas,27,00QS,00QSME,1.57
+9.067E+11,7 Robert Drive,,Glasgow,G51 3HE,74.65,Grid supplied,Natural Gas,211,00QS,00QSME,26.49
+,Police Scotland Digital Media Unit,505 Helen Street,Glasgow,G51 3HF,25.75,Grid supplied,Natural Gas,149,00QS,00QSME,4.38
+9.067E+11,POLICE SCOTLAND RADIO COMMUNICATIONS,499 HELEN STREET,GLASGOW,G51 3HF,15.38,Grid supplied,Natural Gas,96,00QS,00QSME,2.66
+9.067E+11,POLICE SCOTLAND TELECOMMUNICATIONS BUILDING,515 HELEN STREET,GLASGOW,G51 3HF,27.96,Grid supplied,Natural Gas,171,00QS,00QSME,10.07
+,6 Harmony Court,Loanbank Place,Glasgow,G51 3HN,39.23,Grid supplied,Natural Gas,207,00QS,00QSME,11.74
+9.067E+11,4 Loanbank Place,Govan,Glasgow,G51 3HN,48.11,Grid supplied,Natural Gas,119,00QS,00QSME,22.29
+,3 Harmony Court,Loanbank Place,Glasgow,G51 3HN,67.49,Grid supplied,Natural Gas,181,00QS,00QSME,17.09
+9.067E+11,1 LOANBANK PLACE,,GLASGOW,G51 3HN,53.81,Grid supplied,Natural Gas,145,00QS,00QSME,28.84
+,2 Harmony Court,Loanbank Place,Glasgow,G51 3HN,112.34,Grid supplied,Natural Gas,417,00QS,00QSME,36.71
+,5 Harmony Court,Loanbank Place,Glasgow,G51 3HN,111.27,Grid supplied,Natural Gas,394,00QS,00QSME,35.51
+,7 Harmony Court,Loanbank Place,Glasgow,G51 3HN,65.53,Grid supplied,Natural Gas,186,00QS,00QSME,17.09
+,Unit 2,54 Helen Street,Glasgow,G51 3HQ,110.71,Grid supplied,Natural Gas,428,00QS,00QSME,32.02
+9.067E+11,480 HELEN STREET,,GLASGOW,G51 3HR,74.5,Grid supplied,Natural Gas,248,00QS,00QSME,29.57
+9.067E+11,426 HELEN STREET,,GLASGOW,G51 3HR,185.83,Grid supplied,Oil,651,00QS,00QSME,9.29
+9.067E+11,426A HELEN STREET,,GLASGOW,G51 3HR,140.48,Grid supplied,Oil,305,00QS,00QSME,25.19
+9.067E+11,74 LOANBANK QUADRANT,,GLASGOW,G51 3HZ,41.34,Grid supplied,Natural Gas,161,00QS,00QSME,16.69
+9.067E+11,34 LOANBANK QUADRANT,,GLASGOW,G51 3HZ,30.3,Grid supplied,Natural Gas,83,00QS,00QSME,12.92
+9.067E+11,91 Loanbank Quadrant,,Glasgow,G51 3HZ,39.6,Grid supplied,Dual Fuel Appliances (Mineral + Wood),412,00QS,00QSME,14.49
+,58 Loanbank Quadrant,Govan,Glasgow,G51 3HZ,71.55,Grid supplied,Natural Gas,191,00QS,00QSME,18.68
+9.067E+11,250 Helen Street,,Glasgow,G51 3JG,45.49,Grid supplied,Natural Gas,238,00QS,00QSME,8.05
+,15-19 Birkmyre Road,,Glasgow,G51 3JH,40.77,Grid supplied,Natural Gas,98,00QS,00QSME,18.41
+9.067E+11,7 BIRKMYRE ROAD,,GLASGOW,G51 3JH,59.27,Grid supplied,Natural Gas,292,00QS,00QSME,14.06
+9.067E+11,132 Helen Street,,Glasgow,G51 3JS,44.32,Grid supplied,Natural Gas,221,00QS,00QSME,8.61
+,Unit 2,Helen Street Industrial Estate,Glasgow,G51 3JS,3.62,Grid supplied,Other,26,00QS,00QSME,1.11
+,Unit 3,Helen Street Industrial Estate,Glasgow,G51 3JS,3.61,Grid supplied,Other,26,00QS,00QSME,1.11
+,Unit 4,Helen Street Industrial Estate,Glasgow,G51 3JS,30.05,Grid supplied,Natural Gas,74,00QS,00QSME,18.71
+,Offices,779 Govan Road,Glasgow,G51 3JY,57.41,Grid supplied,Natural Gas,174,00QS,00QSME,16.47
+9.067E+11,8 Harmony Square,,Glasgow,G51 3LW,63.28,Grid supplied,Natural Gas,334,00QS,00QSME,14.69
+9.067E+11,19 NETHAN STREET,,GLASGOW,G51 3LX,37.67,Grid supplied,Natural Gas,204,00QS,00QSME,14.54
+9.067E+11,199 CROSSLOAN ROAD,,GLASGOW,G51 3QD,351.36,Grid supplied,Natural Gas,784,00QS,00QSME,132.89
+9.067E+11,71 CRAIGTON ROAD,,GLASGOW,G51 3RB,91.43,Grid supplied,Natural Gas,326,00QS,00QSME,28.8
+9.067E+11,65 CRAIGTON ROAD,,GLASGOW,G51 3RB,66.45,Grid supplied,Natural Gas,300,00QS,00QSME,31.65
+,380 Helen Street,Goven,Glasgow,G51 3RN,237.75,Grid supplied,Natural Gas,523,00QS,00QSME,99.05
+9.067E+11,70 Nimmo Dr,,Glasgow,G51 3SG,129.22,Grid supplied,Natural Gas,403,00QS,00QSME,57.15
+9.067E+11,20 NIMMO DRIVE,,GLASGOW,G51 3SX,158.72,Grid supplied,Natural Gas,323,00QS,00QSME,29.27
+9.067E+11,4 Craigton Road,,Glasgow,G51 3TB,33.42,Grid supplied,Natural Gas,174,00QS,00QSME,6.23
+9.067E+11,STOREY 1/1,1 WATER ROW,GLASGOW,G51 3UW,36.93,Grid supplied,Natural Gas,190,00QS,00QSME,7.3
+9.067E+11,246 Langlands Road,,Glasgow,G51 4AJ,128.1,Grid supplied,Natural Gas,422,00QS,00QSME,34.36
+9.067E+11,PIRIE PARK PRIMARY SCHOOL,337 LANGLANDS ROAD,GLASGOW,G51 4AW,43.25,Grid supplied,Natural Gas,180,00QS,00QSME,31.81
+9.067E+11,ST CONSTANTINES PRIMARY SCHOOL,45 DRUMOYNE ROAD,GLASGOW,G51 4AX,36.97,Grid supplied,Natural Gas,136,00QS,00QSME,23.15
+9.067E+11,UNIT 3,250 DRUMOYNE ROAD,GLASGOW,G51 4BH,169.39,Grid supplied,Natural Gas,359,00QS,00QSME,55.36
+9.067E+11,UNIT 4,250 DRUMOYNE ROAD,GLASGOW,G51 4BH,96.9,Grid supplied,Natural Gas,297,00QS,00QSME,35.04
+,Govan Health Centre Dental Practice,Drumoyne Road,Glasgow,G51 4BJ,128.66,Grid supplied,Natural Gas,348,00QS,00QSME,41.65
+,Govan HC and Elderpark Clinic,5 Drumoyne Road,Glasgow,G51 4BJ,33.35,Grid supplied,Natural Gas,178,00QS,00QSME,8.35
+,Braehead Arena,Kings Inch Road,Glasgow,G51 4BN,21.5,Grid supplied,Natural Gas,136,00RC,00RCMA,4.37
+123076075,UNIT 46 BRAEHEAD SHOPPING CENTRE,KING'S INCH ROAD,GLASGOW,G51 4BP,123.62,Grid supplied,Natural Gas,421,00RC,00RCMA,25.46
+123076150,UNIT 173 BRAEHEAD SHOPPING CENTRE,KING'S INCH ROAD,GLASGOW,G51 4BS,17.17,Grid supplied,Natural Gas,120,00RC,00RCMA,5.24
+123076113,UNIT 116 BRAEHEAD SHOPPING CENTRE,KING'S INCH ROAD,GLASGOW,G51 4BS,12.83,Grid supplied,Natural Gas,89,00RC,00RCMA,2.75
+,Kings Inch Drive,,Glasgow,G51 4BT,59.95,Grid supplied,Natural Gas,138,00RC,00RCMA,48.71
+,Unit 1B,426 Drumoyne Road,Glasgow,G51 4DA,40.27,Grid supplied,Natural Gas,88,00QS,00QSME,11.15
+,330 Drumoyne Road,,Glasgow,G51 4DJ,59.72,Grid supplied,Natural Gas,295,00QS,00QSME,10.17
+,"Meiklewood Road Complex, Building 2",91 Meiklewood Road,Glasgow,G51 4DU,27.84,Grid supplied,Natural Gas,180,00QS,00QSME,5.72
+,"Meiklewood Road Complex, Building 1",91 Meiklewood Road,Glasgow,G51 4DU,40.3,Grid supplied,Natural Gas,204,00QS,00QSME,10.29
+,2nd Floor West Office,135 Fifty Pitches Road,Glasgow,G51 4EB,47.29,Grid supplied,Natural Gas,101,00QS,00QSMD,15.5
+,Caledonia House,Fifty Pitches Road,Glasgow,G51 4EB,62.74,Grid supplied,Natural Gas,158,00QS,00QSMD,28.54
+,1st Floor West Office,135 Fifty Pitches Road,Glasgow,G51 4EB,52.13,Grid supplied,Natural Gas,110,00QS,00QSMD,15.5
+9.067E+11,135 FIFTY PITCHES ROAD,,GLASGOW,G51 4EB,28.33,Grid supplied,Natural Gas,91,00QS,00QSMD,12.62
+9.067E+11,120 Fifty Pitches Road,,Glasgow,G51 4EB,39.73,Grid supplied,Natural Gas,140,00QS,00QSMD,24.11
+,2nd Floor East Office,135 Fifty Pitches Road,Glasgow,G51 4EB,46.31,Grid supplied,Natural Gas,96,00QS,00QSMD,8.78
+,Dobbies Garden World,75 Kings Inch Dr,Glasgow,G51 4FB,49.37,Grid supplied,Biomass,319,00RC,00RCMA,26.95
+123076030,IKEA BRAEHEAD RETAIL PARK,99 KING'S INCH DRIVE,GLASGOW,G51 4FB,30.78,Grid supplied,Natural Gas,191,00RC,00RCMA,4.47
+9.067E+11,37B MEIKLEWOOD ROAD,,GLASGOW,G51 4GB,19.59,Grid supplied,Natural Gas,120,00QS,00QSME,2.96
+9.067E+11,37A MEIKLEWOOD ROAD,,GLASGOW,G51 4GB,15.44,Grid supplied,Natural Gas,93,00QS,00QSME,2.85
+9.067E+11,155 HARDGATE ROAD,,GLASGOW,G51 4LS,55.52,Grid supplied,Natural Gas,164,00QS,00QSME,21.55
+9.067E+11,1209 GOVAN ROAD,,GLASGOW,G51 4PW,67.09,Grid supplied,Natural Gas,353,00QS,00QSME,42.29
+9.067E+11,GOVAN/LINTHOUSE PARISH CHURCH,9 SKIPNESS DRIVE,GLASGOW,G51 4RL,136.98,Grid supplied,Natural Gas,541,00QS,00QSME,28.43
+,Govan / Linthouse Parish Church (West Hall),9 Skipness Drive,Glasgow,G51 4RL,64.5,Grid supplied,Natural Gas,226,00QS,00QSME,21.2
+,Govan / Linthouse Parish Church (East Hall),9 Skipness Drive,Glasgow,G51 4RL,76.26,Grid supplied,Natural Gas,223,00QS,00QSME,17.98
+,1149 Govan Road,,Glasgow,G51 4RX,125.89,Grid supplied,Natural Gas,358,00QS,00QSME,66.71
+,16 Linthouse Drive,,Glasgow,G51 4RZ,47,Grid supplied,Natural Gas,112,00QS,00QSME,60.46
+,21 Linthouse Drive,,GLASGOW,G51 4RZ,26.94,Grid supplied,Natural Gas,127,00QS,00QSME,19.34
+9.067E+11,325 RENFREW ROAD,,GLASGOW,G51 4SP,58.51,Grid supplied,Natural Gas,169,00QS,00QSME,21.89
+,75,Hardgate Road,Glasgow,G51 4SX,37.33,Grid supplied,Natural Gas,114,00QS,00QSME,8.97
+9.067E+11,180 Hardgate Road,,Glasgow,G51 4TB,35.09,Grid supplied,Natural Gas,74,00QS,00QSME,9.04
+,Block BL_DB Maternity (1 and 2),1345 Govan Road,Glasgow,G51 4TF,66.29,Grid supplied,Natural Gas,360,00QS,00QSME,19.98
+,Block DE PDRU,1345 Govan Road,Glasgow,G51 4TF,70.58,Grid supplied,Natural Gas,365,00QS,00QSME,25.75
+,Block DD Podiatry,1345 Govan Road,Glasgow,G51 4TF,59.64,Grid supplied,Natural Gas,320,00QS,00QSME,5.93
+,ICE Building,Queen Elizabeth University Hospital Govan Road,Glasgow,G51 4TF,44.5,Grid supplied,Natural Gas,113,00QS,00QSME,48.23
+,Block DI Westmarc,1345 Govan Road,Glasgow,G51 4TF,27.97,Grid supplied,Natural Gas,152,00QS,00QSME,2.89
+,Block BW1_BW2 Neurology (1 and 2),1345 Govan Road,Glasgow,G51 4TF,77.44,Grid supplied,Natural Gas,398,00QS,00QSME,18.69
+,Teaching and Learning Centre,Queen Elizabeth University Hospital 1345 Govan Ro,Glasgow,G51 4TF,25.11,Grid supplied,Natural Gas,79,00QS,00QSME,22.34
+,ICE Building,Queen Elizabeth University Hospital Goven Road,Glasgow,G51 4TF,44.5,Grid supplied,Natural Gas,113,00QS,00QSME,48.23
+,Block DA Queen Elizabeth National Spinal Injuries Unit,1345 Govan Road,Glasgow,G51 4TF,62.91,Grid supplied,Natural Gas,331,00QS,00QSME,13.96
+,Block BC Institute of Neurological Sciences,1345 Govan Road,Glasgow,G51 4TF,57.23,Grid supplied,Natural Gas,312,00QS,00QSME,11.87
+9.067E+11,217 BOGMOOR ROAD,,GLASGOW,G51 4TH,130.14,Grid supplied,Oil,323,00QS,00QSME,22.68
+,Princes Former Canteen Building,75 Bogmoor Road,Glasgow,G51 4TJ,72.34,Grid supplied,Natural Gas,248,00QS,00QSME,21.89
+,Unit 3,39 Bogmoor Place,Glasgow,G51 4TQ,6.87,Grid supplied,Natural Gas,41,00QS,00QSME,1.87
+9.067E+11,117 BARFILLAN DRIVE,,GLASGOW,G52 1BD,75.76,Grid supplied,Natural Gas,302,00QS,00QSME,14.07
+,133,Barfillan Drive,Glasgow,G52 1BE,99.55,Grid supplied,Natural Gas,253,00QS,00QSME,22.59
+,133 Barfillan Drive,Craigton Industrial Estate,Glasgow,G52 1BY,85.48,Grid supplied,Natural Gas,261,00QS,00QSME,30.86
+9.067E+11,GOVAN POLICE OFFICE,923 HELEN STREET,GLASGOW,G52 1EE,99.67,Grid supplied,Natural Gas,551,00QS,00QSME,42.25
+,530 Helen Street,,Glasgow,G52 1EE,305.15,Grid supplied,Natural Gas,744,00QS,00QSME,85.96
+9.067E+11,1005 Paisley Road West,,Glasgow,G52 1EQ,93.71,Grid supplied,Natural Gas,296,00QS,00QSME,51.6
+9.067E+11,BELLAHOUSTON SPORTS CENTRE,31 BELLAHOUSTON DRIVE,GLASGOW,G52 1HH,193.66,Grid supplied,Natural Gas,608,00QS,00QSME,100.27
+9.067E+11,539 Mosspark Boulevard,,Glasgow,G52 1HU,19.94,Grid supplied,Natural Gas,112,00QS,00QSMD,3.2
+9.067E+11,35 Arran Drive,,Glasgow,G52 1JR,96.08,Grid supplied,Natural Gas,474,00QS,00QSMD,65.32
+9.067E+11,MOSSPARK PARISH CHURCH,167 ASHKIRK DRIVE,GLASGOW,G52 1LA,115.08,Grid supplied,Natural Gas,448,00QS,00QSMD,24.9
+,Church Hall,167A Ashkirk Drive,Glasgow,G52 1LA,84.41,Grid supplied,Natural Gas,311,00QS,00QSMD,16.04
+9.067E+11,NETHERCRAIGS SPORTS CENTRE,310 CORKERHILL ROAD,GLASGOW,G52 1RR,77.72,Grid supplied,Natural Gas,394,00QS,00QSMD,60.9
+9.067E+11,CORKERHILL NEIGHBOURHOOD CENTRE,151 CORKERHILL PLACE,GLASGOW,G52 1RS,40.18,Grid supplied,Natural Gas,114,00QS,00QSMD,9.72
+9.067E+11,570 MOSSPARK BOULEVARD,,GLASGOW,G52 1SD,50.05,Grid supplied,Natural Gas,255,00QS,00QSMD,9.77
+9.067E+11,8 CEMETERY ROAD,,GLASGOW,G52 1SJ,82.37,Grid supplied,Natural Gas,257,00QS,00QSME,22.34
+9.067E+11,1488 Paisley Road West,,Glasgow,G52 1SP,42.9,Grid supplied,Natural Gas,249,00QS,00QSME,8.05
+9.067E+11,1456 Paisley Road West,,Glasgow,G52 1SR,446.34,Grid supplied,Natural Gas,958,00QS,00QSME,93.74
+9.067E+11,283 AROS DRIVE,,GLASGOW,G52 1TH,4.75,Grid supplied,Natural Gas,32,00QS,00QSMD,11.6
+9.067E+11,70 HILLINGTON ROAD SOUTH,,GLASGOW,G52 2AA,83.8,Grid supplied,Natural Gas,434,00QS,00QSMD,35.47
+9.067E+11,75 HILLINGTON ROAD SOUTH,,GLASGOW,G52 2AE,21.35,Grid supplied,Natural Gas,112,00QS,00QSMD,4.64
+,140 Thurston Road,,Glasgow,G52 2AZ,51.71,Grid supplied,Natural Gas,146,00QS,00QSMD,20.87
+9.067E+11,LOURDES PRIMARY SCHOOL,150 BERRYKNOWES ROAD,GLASGOW,G52 2BW,33.46,Grid supplied,Natural Gas,119,00QS,00QSMD,20.53
+9.067E+11,CRAIGTON CREMATORIUM,260 BERRYKNOWES ROAD,GLASGOW,G52 2DB,57.09,Grid supplied,Natural Gas,285,00QS,00QSMD,5.95
+9.067E+11,,"1 Belses Gardens, Cardonald",Glasgow,G52 2DY,66.99,Grid supplied,Natural Gas,262,00QS,00QSMD,39.13
+9.067E+11,58 ALLANTON DRIVE,,GLASGOW,G52 2EU,85.37,Grid supplied,Natural Gas,416,00QS,00QSMD,12.63
+,50 Tweedsmuir Road,,Glasgow,G52 2RX,52.06,Grid supplied,Natural Gas,188,00QS,00QSMD,15.84
+9.067E+11,26 Tweedsmuir Rd,Cardonald,Glasgow,G52 2RX,72.47,Grid supplied,Natural Gas,168,00QS,00QSMD,21.14
+9.067E+11,CARDONALD CARE HOME,663 MOSSPARKDRIVE,Glasgow,G52 3AR,67.85,Grid supplied,Natural Gas,343,00QS,00QSMD,29.56
+9.067E+11,838 Mosspark Drive,,Glasgow,G52 3DA,77,Grid supplied,Natural Gas,277,00QS,00QSMD,28.59
+9.067E+11,2075 PAISLEY ROAD WEST,,GLASGOW,G52 3JH,68.08,Grid supplied,Natural Gas,360,00QS,00QSMD,35.39
+9.067E+11,2093 Paisley Road West G52 3JH,,Glasgow,G52 3JH,282.38,Grid supplied,Natural Gas,726,00QS,00QSMD,75.76
+9.067E+11,90 CROOKSTON ROAD,,GLASGOW,G52 3ND,179.17,Grid supplied,Natural Gas,564,00QS,00QSMD,97.42
+,Ross Hall Hospital,221 Crookston Road,Glasgow,G52 3NQ,58.75,Grid supplied,Natural Gas,304,00QS,00QSMD,20.51
+9.067E+11,SSPCA ANIMAL CENTRE,125 KINNELL AVENUE,GLASGOW,G52 3RY,57.81,Grid supplied,Natural Gas,148,00QS,00QSMD,80.38
+9.067E+11,2210 Paisley Road West,Cardonald,Glasgow,G52 3SJ,89.52,Grid supplied,Natural Gas,252,00QS,00QSMD,33.21
+,2176 Paisley Road West,,Glasgow,G52 3SJ,67.78,Grid supplied,Natural Gas,345,00QS,00QSMD,4.93
+9.067E+11,1831 Paisley Road West,,GLASGOW,G52 3SS,16.11,Grid supplied,Natural Gas,97,00QS,00QSMD,3.96
+9.067E+11,1807 PAISLEY ROAD WEST,,GLASGOW,G52 3SS,17.59,Grid supplied,Natural Gas,35,00QS,00QSMD,31.97
+9.067E+11,1849 PAISLEY ROAD WEST,,GLASGOW,G52 3SX,165.46,Grid supplied,Natural Gas,427,00QS,00QSMD,65.95
+9.067E+11,1860 PAISLEY ROAD WEST,,GLASGOW,G52 3TN,126.95,Grid supplied,Natural Gas,429,00QS,00QSMD,61.28
+9.067E+11,1842 PAISLEY ROAD WEST,,GLASGOW,G52 3TW,138.59,Grid supplied,Natural Gas,330,00QS,00QSMD,40.76
+9.067E+11,1844 PAISLEY ROAD WEST,,GLASGOW,G52 3TW,71.72,Grid supplied,Natural Gas,378,00QS,00QSMD,40.27
+9.067E+11,1838 PAISLEY ROAD WEST,,GLASGOW,G52 3TW,62.54,Grid supplied,Natural Gas,212,00QS,00QSMD,31.28
+9.067E+11,26 GLEDDOCH ROAD,,GLASGOW,G52 4BD,60.61,Grid supplied,Natural Gas,164,00QS,00QSMD,37.99
+123013791,1 Lister Road,Hillington Park,Glasgow,G52 4BH,60.29,Grid supplied,Natural Gas,228,00RC,00RCMB,18.55
+123013798,21 Lister Road,Hillington Park,Glasgow,G52 4BH,59.35,Grid supplied,Natural Gas,240,00RC,00RCMB,22.15
+123013801,27 Lister RD,Hillington,Glasgow,G52 4BH,34.22,Grid supplied,Natural Gas,130,00RC,00RCMB,9.83
+123013707,5 Erskine Square,Hillington Park,Glasgow,G52 4BJ,88.3,Grid supplied,Natural Gas,274,00RC,00RCMB,15.21
+123013710,8 ERSKINE SQUARE,,GLASGOW,G52 4BJ,40.69,Grid supplied,Natural Gas,214,00RC,00RCMB,6.31
+,432 Hillington Road,,Glasgow,G52 4BL,92.03,Grid supplied,Natural Gas,254,00RC,00RCMB,29.85
+123013734,459-463 Hillington Road,,Glasgow,G52 4BL,77.01,Grid supplied,Natural Gas,202,00RC,00RCMB,15.23
+123013908,UNIT C ST ANDREW'S HOUSE,385 HILLINGTON ROAD,GLASGOW,G52 4BL,47.15,Grid supplied,Natural Gas,240,00RC,00RCMB,6.69
+123013722,421 HILLINGTON ROAD,HILLINGTON PARK,GLASGOW,G52 4BL,64.05,Grid supplied,Natural Gas,322,00RC,00RCMB,8.98
+,435-437 Hillington Road,Hillington Industrial Estate,Glasgow,G52 4BL,59.82,Grid supplied,Natural Gas,210,00RC,00RCMB,26.82
+,Block 106 Unit 10,424 Hillington Road,Glasgow,G52 4BL,108.02,Grid supplied,Natural Gas,352,00RC,00RCMB,41.44
+9.067E+11,388 HILLINGTON ROAD,,GLASGOW,G52 4BL,27.42,Grid supplied,Natural Gas,147,00RC,00RCMB,6.66
+9.067E+11,436 HILLINGTON ROAD,,GLASGOW,G52 4BL,76.98,Grid supplied,Natural Gas,238,00RC,00RCMB,33.18
+123013719,413 Hillington Road,Hillington Park,Glasgow,G52 4BL,29.93,Grid supplied,Natural Gas,162,00RC,00RCMB,8.42
+9.067E+11,406 Hillington Road,,Glasgow,G52 4BL,84.32,Grid supplied,Natural Gas,289,00RC,00RCMB,24.86
+123092050,UNIT E,ST ANDREW'S HOUSE,GLASGOW,G52 4BL,59.08,Grid supplied,Natural Gas,173,00RC,00RCMB,24.2
+123013728,443 HILLINGTON ROAD,HILLINGTON PARK,GLASGOW,G52 4BL,84.95,Grid supplied,Natural Gas,296,00RC,00RCMB,32.71
+123013716,407 HILLINGTON ROAD,HILLINGTON PARK,GLASGOW,G52 4BL,41.24,Grid supplied,Natural Gas,216,00RC,00RCMB,7.63
+123013733,455 HILLINGTON ROAD,HILLINGTON PARK,GLASGOW,G52 4BL,17.44,Grid supplied,Natural Gas,98,00RC,00RCMB,2.78
+9.067E+11,Unit 5,25 Colquhoun Avenue,Glasgow,G52 4BN,76.32,Grid supplied,Natural Gas,176,00QS,00QSMD,25.53
+9.067E+11,13 COLQUHOUN AVENUE,,GLASGOW,G52 4BN,56.32,Grid supplied,Natural Gas,160,00QS,00QSMD,17.24
+9.067E+11,37 COLQUHOUN AVENUE,,GLASGOW,G52 4BN,129.65,Grid supplied,Natural Gas,478,00QS,00QSMD,29.15
+9.067E+11,40 COLQUHOUN AVENUE,,GLASGOW,G52 4BN,17.18,Grid supplied,Natural Gas,95,00QS,00QSMD,4.77
+,Units 1-7,Colquhoun Avenue,Glasgow,G52 4BN,53.8,Grid supplied,Natural Gas,131,00QS,00QSMD,23.35
+,11 COLQUHOUN AVENUE,,GLASGOW,G52 4BN,16.92,Grid supplied,Natural Gas,96,00QS,00QSMD,4.18
+9.067E+11,9 COLQUHOUN AVENUE,,GLASGOW,G52 4BN,61.54,Grid supplied,Natural Gas,321,00QS,00QSMD,10.36
+9.067E+11,43 COLQUHOUN AVENUE,,GLASGOW,G52 4BN,44.46,Grid supplied,Natural Gas,226,00QS,00QSMD,11.11
+,15 COLQUHOUN AVENUE,HILLINGTON PARK,GLASGOW,G52 4BN,48.21,Grid supplied,Natural Gas,252,00QS,00QSMD,8.6
+,44 Colquhoun Avenue,Hillington,Glasgow,G52 4BN,32.43,Grid supplied,Natural Gas,171,00QS,00QSMD,10.34
+,13B Colquhoun Avenue,Hillington,Glasgow,G52 4BN,77.25,Grid supplied,Natural Gas,249,00QS,00QSMD,23.16
+9.067E+11,19 Colquhoun Avenue,,Glasgow,G52 4BN,33.58,Grid supplied,Natural Gas,108,00QS,00QSMD,16.24
+123103179,24 Boswell Square,Hillington Park,Glasgow,G52 4BQ,74.94,Grid supplied,Natural Gas,207,00RC,00RCMB,16.13
+123103180,26 Boswell Square,Hillington Park,Glasgow,G52 4BQ,81.76,Grid supplied,Natural Gas,213,00RC,00RCMB,20.2
+,46A Zetland Road,Hillington,Glasgow,G52 4BW,54.26,Grid supplied,Natural Gas,176,00RC,00RCMB,12.23
+123013744,29 HUNTLY ROAD,HILLINGTON,GLASGOW,G52 4DZ,79.95,Grid supplied,Natural Gas,232,00RC,00RCMB,37.18
+9.067E+11,DEANFIELD CARE HOME,40 DEANFIELD QUADRANT,GLASGOW,G52 4ES,81.54,Grid supplied,Natural Gas,336,00QS,00QSMD,77.24
+123119987,12 Mossland Drive,Hillington Park,Glasgow,G52 4FA,10.8,Grid supplied,Natural Gas,51,,,18.13
+123119986,10 Mossland Drive,Hillington Park,Glasgow,G52 4FA,23.32,Grid supplied,Natural Gas,69,,,25.66
+123110090,4 Mossland Drive,Hillington Park,Glasgow,G52 4FA,14.72,Grid supplied,Natural Gas,51,,,17.87
+123110089,2 Mossland Drive,Hillington Park,Glasgow,G52 4FA,14.05,Grid supplied,Natural Gas,47,,,19.12
+,Valet Bay,2 Mossland Drive,Glasgow,G52 4FA,8.56,Grid supplied,Natural Gas,30,,,5.2
+123098464,Unit 8 Kelvin Gate,58 Kelvin Avenue,Glasgow,G52 4GA,66.71,Grid supplied,Natural Gas,242,00RC,00RCMB,39.21
+123098465,UNIT 9 KELVIN GATE,58 KELVIN AVENUE,GLASGOW,G52 4GA,50.33,Grid supplied,Natural Gas,252,00RC,00RCMB,10.69
+123098468,UNIT 12 KELVIN GATE,58 KELVIN AVENUE,GLASGOW,G52 4GA,41.96,Grid supplied,Natural Gas,139,00RC,00RCMB,30.47
+123098459,UNIT 3 KELVIN GATE,58 KELVIN AVENUE,Glasgow,G52 4GA,52.68,Grid supplied,Natural Gas,173,00RC,00RCMB,37.41
+,Filshill,Ainslie Avenue,Glasgow,G52 4HE,95.9,Grid supplied,Natural Gas,205,00RC,00RCMB,35.33
+123105416,25 LORNE ROAD,HILLINGTON PARK,GLASGOW,G52 4HG,51.18,Grid supplied,Natural Gas,135,00RC,00RCMB,27.29
+123013809,15 LORNE ROAD,HILLINGTON PARK,GLASGOW,G52 4HG,71.02,Grid supplied,Natural Gas,275,00RC,00RCMB,21.21
+9.067E+11,St Andrew and St Nicholas Church,59 Bowfield Crescent,Glasgow,G52 4HS,120.32,Grid supplied,Natural Gas,301,00QS,00QSMD,30.06
+,Unit 1 and 2 Northpoint,20-22 Stephenson Street,Glasgow,G52 4JD,66.62,Grid supplied,Natural Gas,337,00RC,00RCMB,9.59
+,2 Stephenson Street,,Glasgow,G52 4JD,17.01,Grid supplied,Natural Gas,95,00RC,00RCMB,3.33
+123107144,Suite 7 Cameron Court,Cameron Street,Glasgow,G52 4JG,56.27,Grid supplied,Natural Gas,204,00RC,00RCMB,23.47
+123013620,Suite 6 Cameron Court,Cameron Street,Glasgow,G52 4JG,74.49,Grid supplied,Natural Gas,293,00RC,00RCMB,29.07
+123098239,SUITE 1A CAMERON COURT,CAMERON STREET,GLASGOW,G52 4JH,36.24,Grid supplied,Natural Gas,202,00RC,00RCMB,6.68
+,Suite 6 Cameron Court,Cameron Street,Glasgow,G52 4JH,56.7,Grid supplied,Natural Gas,216,00RC,00RCMB,21.12
+123013617,Suite 1 Cameron Court,Cameron Street,Glasgow,G52 4JH,49.97,Grid supplied,Natural Gas,127,00RC,00RCMB,35.64
+,Suite 7 Cameron Court,Cameron Street,Glasgow,G52 4JH,50.92,Grid supplied,Natural Gas,208,00RC,00RCMB,17.97
+,8 Earl Haig Road,Hillington,Glasgow,G52 4JN,103.64,Grid supplied,Natural Gas,340,00RC,00RCMB,41.19
+,5 Seaforth Road North,Hillington Industrial Estate,Glasgow,G52 4JQ,60.39,Grid supplied,Natural Gas,164,00RC,00RCMB,17.67
+123088406,SEAFORTH HOUSE,SEAFORTH ROAD NORTH,GLASGOW,G52 4JQ,32.27,Grid supplied,Natural Gas,168,00RC,00RCMB,5.62
+,2 Lothian Street,Hillington,Glasgow,G52 4JR,49.84,Grid supplied,Natural Gas,174,00RC,00RCMB,15.99
+123013667,28 Earl Haig Road,Hillington Park,Glasgow,G52 4JU,49.55,Grid supplied,Natural Gas,182,00RC,00RCMB,17.14
+123094955,11 EARL HAIG ROAD,HILLINGTON PARK,GLASGOW,G52 4JU,44.94,Grid supplied,Natural Gas,174,00RC,00RCMB,26.75
+123013670,33 Earl Haig Road,Hillington Park,Glasgow,G52 4JU,79.45,Grid supplied,Natural Gas,270,00RC,00RCMB,34.26
+,2-6 Earl Haig Road,Hillington Park,Glasgow,G52 4JU,64.71,Grid supplied,Natural Gas,202,00RC,00RCMB,24.52
+123115240,30 EARL HAIG ROAD,HILLINGTON PARK,GLASGOW,G52 4JU,26.76,Grid supplied,Natural Gas,86,00RC,00RCMB,9.42
+,The Hub,3 Earl Haig Road,Glasgow,G52 4JU,59.05,Grid supplied,Natural Gas,147,00RC,00RCMB,26.99
+123013671,34 EARL HAIG ROAD,HILLINGTON PARK,GLASGOW,G52 4JU,63.29,Grid supplied,Natural Gas,321,00RC,00RCMB,13.57
+,Unit 25 Northpoint,34 Edison Street,Glasgow,G52 4JW,19.9,Grid supplied,Natural Gas,108,00RC,00RCMB,5.85
+,Unit 21 Northpoint,42 Edison Street,Glasgow,G52 4JW,48.67,Grid supplied,Natural Gas,250,00RC,00RCMB,6.09
+9.067E+11,55 CARNEGIE ROAD,,GLASGOW,G52 4JZ,49.41,Grid supplied,Natural Gas,175,00QS,00QSMD,17.24
+9.067E+11,100 Carnegie Road,,Glasgow,G52 4JZ,41.65,Grid supplied,Natural Gas,99,00QS,00QSMD,14.23
+123098443,70 Montrose Avenue,Hillington Park,Glasgow,G52 4LA,23.36,Grid supplied,Natural Gas,66,00RC,00RCMB,20.85
+123013827,HILLINGTON ESTATE TENNIS CLUB,MONTROSE AVENUE,GLASGOW,G52 4LA,43.51,Grid supplied,Natural Gas,233,00RC,00RCMB,8.6
+123013817,27 Montrose Avenue,Hillington Park,Glasgow,G52 4LA,61.51,Grid supplied,Natural Gas,181,00RC,00RCMB,20.44
+123013824,50 MONTROSE AVENUE,HILLINGTON PARK,GLASGOW,G52 4LA,39.66,Grid supplied,Natural Gas,92,00RC,00RCMB,12.48
+,Unit 4 Centre Point,61B Montrose Avenue,Glasgow,G52 4LA,42.54,Grid supplied,Natural Gas,230,00RC,00RCMB,6.75
+123013821,35-37 Montrose Avenue,Hillington Park,Glasgow,G52 4LA,25.27,Grid supplied,Natural Gas,84,00RC,00RCMB,15.07
+123120235,11-13 MONTROSE AVENUE,HILLINGTON PARK,GLASGOW,G52 4LA,14.52,Grid supplied,Natural Gas,78,00RC,00RCMB,4.54
+123105409,61A MONTROSE AVENUE,HILLINGTON PARK,GLASGOW,G52 4LA,58.79,Grid supplied,Natural Gas,296,00RC,00RCMB,5.54
+,Hillington Laundry and Call Centre,1 Jubilee Ct,Glasgow,G52 4LB,52.33,Grid supplied,Natural Gas,267,00RC,00RCMB,5.36
+123013750,5 Jubilee Court,Hillington Park,Glasgow,G52 4LB,94.59,Grid supplied,Natural Gas,377,00RC,00RCMB,33.45
+,Unit 5,48 Kelvin Avenue,Glasgow,G52 4LT,114.12,Grid supplied,Natural Gas,398,00RC,00RCMB,26.6
+123114496,72 KELVIN AVENUE,HILLINGTON PARK,GLASGOW,G52 4LT,38.64,Grid supplied,Natural Gas,121,00RC,00RCMB,43.6
+123013754,19 KELVIN AVENUE,HILLINGTON PARK,GLASGOW,G52 4LT,65.29,Grid supplied,Natural Gas,323,00RC,00RCMB,10.58
+123013760,30 Kelvin Avenue,Hillington Park,Glasgow,G52 4LT,74.68,Grid supplied,Natural Gas,281,00RC,00RCMB,33.39
+123013753,17 Kelvin Avenue,Hillington Park,Glasgow,G52 4LT,107.6,Grid supplied,Natural Gas,408,00RC,00RCMB,23.92
+123013767,42 KELVIN AVENUE,HILLINGTON PARK,GLASGOW,G52 4LT,85.98,Grid supplied,Natural Gas,264,00RC,00RCMB,28.49
+,Unit 4,46 Kelvin Avenue,Glasgow,G52 4LT,114.74,Grid supplied,Natural Gas,400,00RC,00RCMB,26.76
+123097995,70 Kelvin Avenue,Hillington,Glasgow,G52 4LT,51.04,Grid supplied,Natural Gas,147,00RC,00RCMB,23.7
+123114497,74 KELVIN AVENUE,HILLINGTON PARK,GLASGOW,G52 4LT,39.4,Grid supplied,Natural Gas,133,00RC,00RCMB,40.19
+,Block 75 Napier Road,Hillington Park,Glasgow,G52 4LW,99.28,Grid supplied,Natural Gas,390,00RC,00RCMB,32.83
+123013785,Unit 10 Hillington Park Shopping Centre,Earl Haig Road,Glasgow,G52 4LY,67.57,Grid supplied,Oil,201,00RC,00RCMB,19.81
+,Unit B1,1 Queensberry Avenue,Glasgow,G52 4NL,28.24,Grid supplied,Natural Gas,152,00RC,00RCMB,11.62
+123092654,6 Queensberry Avenue,Hillington Park,Glasgow,G52 4NL,77.64,Grid supplied,Natural Gas,179,00RC,00RCMB,34.26
+,3 Queensberry Avenue,Hillington Park,Glasgow,G52 4NL,37.97,Grid supplied,Natural Gas,91,00RC,00RCMB,14.9
+123093956,7 QUEENSBERRY AVENUE,HILLINGTON PARK,GLASGOW,G52 4NL,75.95,Grid supplied,Natural Gas,213,00RC,00RCMB,30.39
+123092655,9 QUEENSBERRY AVENUE,HILLINGTON PARK,GLASGOW,G52 4NL,36.05,Grid supplied,Natural Gas,189,00RC,00RCMB,14.33
+,30 Dalziel Road,Hillington Park,Glasgow,G52 4NN,58.51,Grid supplied,Natural Gas,290,00RC,00RCMB,8.07
+123013646,UNIT 12 BLOCK 57,DALZIEL ROAD,GLASGOW,G52 4NN,58.31,Grid supplied,Natural Gas,292,00RC,00RCMB,9.12
+123095348,UNIT 3,28 QUEEN ELIZABETH AVENUE,GLASGOW,G52 4NQ,64.92,Grid supplied,Natural Gas,163,00RC,00RCMB,18.17
+123095354,UNIT 9,28 QUEEN ELIZABETH AVENUE,GLASGOW,G52 4NQ,47.64,Grid supplied,Natural Gas,123,00RC,00RCMB,15.51
+,Unit 1,28 Queen Elizabeth Avenue,Glasgow,G52 4NQ,15.14,Grid supplied,Natural Gas,83,00RC,00RCMB,1.42
+,42,Queen Elizabeth Avenue,Glasgow,G52 4NQ,85.15,Grid supplied,Natural Gas,251,00RC,00RCMB,40.29
+,44 Queen Elizabeth Avenue,Hillington,Glasgow,G52 4NQ,98.37,Grid supplied,Natural Gas,340,00RC,00RCMB,41.02
+123013864,45 Queen Elizabeth Avenue,,Glasgow,G52 4NQ,78.13,Grid supplied,Natural Gas,237,00RC,00RCMB,30.19
+123098662,2 BUCCLEUCH AVENUE,HILLINGTON PARK,GLASGOW,G52 4NR,48.95,Grid supplied,Natural Gas,173,00RC,00RCMB,27.33
+,Block 3a Part,Buccleuch Avenue,Glasgow,G52 4NR,98.94,Grid supplied,Natural Gas,305,00RC,00RCMB,17.01
+,9-15 Watt Road,Hillington Park,Glasgow,G52 4PQ,75.81,Grid supplied,Natural Gas,290,00RC,00RCMB,27.83
+,2 Centura Court,Naysmyth Place,Glasgow,G52 4PR,29.93,Grid supplied,Natural Gas,156,00QS,00QSMD,5.81
+9.067E+11,4 NASMYTH PLACE,,GLASGOW,G52 4PR,25.65,Grid supplied,Natural Gas,133,00QS,00QSMD,5.74
+9.067E+11,1 Nasmyth Place,,Glasgow,G52 4PR,53.47,Grid supplied,Natural Gas,164,00QS,00QSMD,23.46
+,3 Centura Court,Nasmyth Place,Glasgow,G52 4PR,41.5,Grid supplied,Natural Gas,115,00QS,00QSMD,18.44
+,4-6 Barrie Road,Hillington Park,Glasgow,G52 4PX,88.81,Grid supplied,Natural Gas,275,00RC,00RCMB,32
+123013607,111 Barrie Road,Hillington Park,Glasgow,G52 4PX,48.63,Grid supplied,Natural Gas,246,00RC,00RCMB,10.83
+123013599,20 Barrie Road,Hillington Park,Glasgow,G52 4PX,13.89,Grid supplied,Natural Gas,39,00RC,00RCMB,4.16
+123013598,18 Barrie Road,Hillington Park,Glasgow,G52 4PX,39,Grid supplied,Natural Gas,98,00RC,00RCMB,4.67
+9.067E+11,BLOCK 130 - UNIT 1,60 NASMYTH ROAD SOUTH,GLASGOW,G52 4RE,116.94,Grid supplied,Natural Gas,387,00QS,00QSMD,41.67
+9.067E+11,Hillington Business Centre,15-17 Nasmyth Road,Glasgow,G52 4RE,38.69,Grid supplied,Natural Gas,99,00QS,00QSMD,9.83
+9.067E+11,BLOCK 132 - UNIT 5,40 NASMYTH ROAD SOUTH,GLASGOW,G52 4RE,68.01,Grid supplied,Natural Gas,350,00QS,00QSMD,10.06
+9.067E+11,BLOCK 130 - UNIT 6,50 NASMYTH ROAD SOUTH,GLASGOW,G52 4RE,71.18,Grid supplied,Natural Gas,264,00QS,00QSMD,22.98
+,Block 132 – Unit 9-10,30-32 Nasmyth Road South,Glasgow,G52 4RE,68.59,Grid supplied,Natural Gas,357,00QS,00QSMD,9.99
+9.067E+11,BLOCK 132 - UNIT 6,38 NASMYTH ROAD SOUTH,GLASGOW,G52 4RE,82.95,Grid supplied,Natural Gas,410,00QS,00QSMD,12.72
+9.067E+11,BLOCK 132 - UNIT 1,48 NASMYTH ROAD SOUTH,GLASGOW,G52 4RE,69.2,Grid supplied,Natural Gas,230,00QS,00QSMD,25.69
+9.067E+11,BLOCK 132 - UNIT 3,44 NASMYTH ROAD SOUTH,GLASGOW,G52 4RE,23.37,Grid supplied,Natural Gas,139,00QS,00QSMD,6.44
+9.067E+11,BLOCK 130 - UNIT 3,56 NASMYTH ROAD SOUTH,GLASGOW,G52 4RE,60.06,Grid supplied,Natural Gas,300,00QS,00QSMD,12.11
+9.067E+11,BLOCK 132 - UNIT 4,42 NASMYTH ROAD SOUTH,GLASGOW,G52 4RE,59.07,Grid supplied,Natural Gas,227,00QS,00QSMD,22.41
+9.067E+11,36 HEPBURN ROAD,,GLASGOW,G52 4RJ,40.31,Grid supplied,Natural Gas,215,00QS,00QSMD,8.3
+9.067E+11,BLOCK 131 - UNIT 2,47 HEPBURN ROAD,GLASGOW,G52 4RJ,37.17,Grid supplied,Natural Gas,192,00QS,00QSMD,7.71
+,Block 133 Unit 3/8,39 Hepburn Road,Glasgow,G52 4RJ,49.82,Grid supplied,Natural Gas,208,00QS,00QSMD,17.78
+,Block 108 Unit 6,38 Hepburn Road,Glasgow,G52 4RJ,96.04,Grid supplied,Natural Gas,365,00QS,00QSMD,19.38
+9.067E+11,BLOCK 131 - UNIT 4,51 HEPBURN ROAD,GLASGOW,G52 4RJ,38.8,Grid supplied,Natural Gas,205,00QS,00QSMD,9.03
+123013923,2-4 Watt Road,Hillington Park,Glasgow,G52 4RR,113.57,Grid supplied,Natural Gas,475,00RC,00RCMB,31.91
+9.067E+11,BLOCK 133 - UNIT 10,25 HEPBURN ROAD,GLASGOW,G52 4RT,57.63,Grid supplied,Natural Gas,291,00QS,00QSMD,12.85
+9.067E+11,BLOCK 133 - UNIT 9,27 HEPBURN ROAD,GLASGOW,G52 4RT,52.56,Grid supplied,Natural Gas,269,00QS,00QSMD,6.19
+9.067E+11,BLOCK 133 - UNIT 5,35 HEPBURN ROAD,GLASGOW,G52 4RT,52.97,Grid supplied,Natural Gas,270,00QS,00QSMD,9.85
+9.067E+11,BLOCK 133 - UNIT 2,41 HEPBURN ROAD,Glasgow,G52 4RT,83.26,Grid supplied,Natural Gas,324,00QS,00QSMD,26.37
+9.067E+11,BLOCK 133 - UNIT 4,37 HEPBURN ROAD,GLASGOW,G52 4RT,50.08,Grid supplied,Natural Gas,256,00QS,00QSMD,11.92
+9.067E+11,30 Hepburn Road,,Glasgow,G52 4RT,52.92,Grid supplied,Natural Gas,187,00QS,00QSMD,17.44
+,36 Hepburn Road,,Glasgow,G52 4RT,72.44,Grid supplied,Natural Gas,226,00QS,00QSMD,24.88
+,Block 131,45 Hepburn Road,Glasgow,G52 4RT,55.31,Grid supplied,Natural Gas,162,00QS,00QSMD,19.72
+9.067E+11,32 HEPBURN ROAD,,GLASGOW,G52 4RT,42.85,Grid supplied,Natural Gas,222,00QS,00QSMD,8.07
+,Pure Offices,1 Ainslie Road,Glasgow,G52 4RU,15.38,Grid supplied,Natural Gas,96,00QS,00QSMD,4.63
+,Innovation Centre 1 Ainslie Road,Hillington Park,Glasgow,G52 4RU,37.01,Grid supplied,Natural Gas,123,00QS,00QSMD,18.52
+,Ainslie House,24 Ainslie Road,Glasgow,G52 4RU,52.76,Grid supplied,Natural Gas,167,00QS,00QSMD,17.39
+,17-19 Ainslie Road,Hillington Park,Glasgow,G52 4RU,47.27,Grid supplied,Natural Gas,244,00QS,00QSMD,8.68
+,21-23 Ainslie Road,Hillington Park,Glasgow,G52 4RU,40.68,Grid supplied,Natural Gas,213,00QS,00QSMD,11.26
+9.067E+11,41 Ainslie Road,,Glasgow,G52 4RU,62.75,Grid supplied,Natural Gas,213,00QS,00QSMD,34.9
+123013944,38 WATT ROAD,HILLINGTON PARK,GLASGOW,G52 4RY,17.33,Grid supplied,Natural Gas,91,00RC,00RCMB,4.05
+123013947,41 WATT ROAD,HILLINGTON PARK,GLASGOW,G52 4RY,51.98,Grid supplied,Natural Gas,140,00RC,00RCMB,21.68
+123013935,19 Watt Road,Hillington Park,Glasgow,G52 4RY,83.65,Grid supplied,Natural Gas,295,00RC,00RCMB,30.14
+123013948,42 WATT ROAD,HILLINGTON PARK,GLASGOW,G52 4RY,14.85,Grid supplied,Natural Gas,84,00RC,00RCMB,4.32
+123013925,6-8 WATT ROAD,HILLINGTON PARK,GLASGOW,G52 4RY,43.35,Grid supplied,Natural Gas,220,00RC,00RCMB,9.93
+,22-24 Watt Road,Hillington,Glasgow,G52 4RY,53.28,Grid supplied,Natural Gas,156,00RC,00RCMB,15.71
+123110107,28-32 WATT ROAD,HILLINGTON PARK,GLASGOW,G52 4RY,30.55,Grid supplied,Natural Gas,183,00RC,00RCMB,8.38
+123013933,14-16 WATT ROAD,HILLINGTON PARK,GLASGOW,G52 4RY,63.82,Grid supplied,Natural Gas,220,00RC,00RCMB,33.98
+123013928,10 WATT ROAD,HILLINGTON PARK,GLASGOW,G52 4RY,88.3,Grid supplied,Natural Gas,438,00RC,00RCMB,13.27
+123013936,21 WATT ROAD,HILLINGTON PARK,GLASGOW,G52 4RY,42.06,Grid supplied,Natural Gas,209,00RC,00RCMB,8.78
+123013942,35-37 WATT ROAD,HILLINGTON PARK,GLASGOW,G52 4RY,8.6,Grid supplied,Biomass,130,00RC,00RCMB,5.65
+123091607,34 WATT ROAD,HILLINGTON PARK,GLASGOW,G52 4RY,49.69,Grid supplied,Natural Gas,131,00RC,00RCMB,13.1
+,Unit 7 and 8 Northpoint,15 Gordon Avenue,Glasgow,G52 4TG,75.92,Grid supplied,Natural Gas,369,00RC,00RCMB,7.39
+123013828,2 GORDON AVENUE,HILLINGTON PARK,GLASGOW,G52 4TG,146.56,Grid supplied,Natural Gas,406,00RC,00RCMB,42.59
+,Unit 14 Northpoint,27 Gordon Avenue,Glasgow,G52 4TG,43.52,Grid supplied,Natural Gas,233,00RC,00RCMB,11.2
+,Unit 20 Northpoint,39 Gordon Avenue,Glasgow,G52 4TG,41.58,Grid supplied,Natural Gas,211,00RC,00RCMB,12.4
+,Unit 2,Atholl Avenue,Glasgow,G52 4UA,43.56,Grid supplied,Natural Gas,235,00RC,00RCMB,6.67
+123092504,,520 Hillington Road,Glasgow,G52 4UB,84.38,Grid supplied,Natural Gas,210,00RC,00RCMA,26.55
+123013725,427 HILLINGTON ROAD,HILLINGTON PARK,GLASGOW,G52 4UJ,41.29,Grid supplied,Natural Gas,208,00RC,00RCMB,7.52
+123092752,100 PENILEE ROAD,HILLINGTON PARK,GLASGOW,G52 4UU,7.72,Grid supplied,Natural Gas,45,00RC,00RCMB,1.69
+123091062,500 HILLINGTON ROAD,HILLINGTON PARK,GLASGOW,G52 4XA,15.13,Grid supplied,Natural Gas,87,00RC,00RCMB,5.08
+,2 Edison Street,Hillington,Glasgow,G52 4XN,6.28,Grid supplied,Natural Gas,37,00RC,00RCMB,1.7
+123013626,15 CARLYLE AVENUE,HILLINGTON PARK,GLASGOW,G52 4XX,76.59,Grid supplied,Natural Gas,297,00RC,00RCMB,28.29
+123013622,2-6 Carlyle Avenue,Hillington Park,Glasgow,G52 4XX,155.12,Grid supplied,Natural Gas,600,00RC,00RCMB,28.86
+123013623,9 CARLYLE AVENUE,Hillington Park,Glasgow,G52 4XX,89.77,Grid supplied,Natural Gas,434,00RC,00RCMB,12.74
+123013634,41 Carlyle Avenue,Hillington Park,Glasgow,G52 4XX,202.22,Grid supplied,Natural Gas,467,00RC,00RCMB,41.73
+,22-24 Carlyle Avenue,Hillington Park,Glasgow,G52 4XX,29.72,Grid supplied,Natural Gas,84,00RC,00RCMB,19.71
+123095327,13 CARLYLE AVENUE,HILLINGTON PARK,GLASGOW,G52 4XX,34.08,Grid supplied,Natural Gas,92,00RC,00RCMB,17.65
+123013625,11 CARLYLE AVENUE,HILLINGTON PARK,GLASGOW,G52 4XX,21.39,Grid supplied,Natural Gas,116,00RC,00RCMB,8.68
+123013628,20 CARLYLE AVENUE,HILLINGTON PARK,GLASGOW,G52 4XX,29.1,Grid supplied,Natural Gas,82,00RC,00RCMB,9.26
+,Carlson House 19 Mossland Road,Hillington Park,Glasgow,G52 4XZ,69.13,Grid supplied,Natural Gas,181,00RC,00RCMB,23.78
+,Merlin House,Mossland Road,Glasgow,G52 4XZ,61.7,Grid supplied,Natural Gas,164,00RC,00RCMB,15.22
