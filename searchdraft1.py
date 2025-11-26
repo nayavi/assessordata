@@ -45,7 +45,7 @@ def parse_results_page(url):
     # TODO: Update this selector based on actual SAA HTML
     table = soup.find("table")
     if not table:
-        print("No results table found:", search_term)
+        print("No results table found:", url)
         return []
 
     properties = []
@@ -138,8 +138,8 @@ import csv
 print("imported")
 
 def main():
-    input_csv = "ExampleDataScottish10.csv"
-    output_csv = "saa_full_10.csv"
+    input_csv = "NonDomGlasgow5.csv"
+    output_csv = "saa_southside5.csv"
 
     # Columns we want to save
     desired_columns = [
