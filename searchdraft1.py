@@ -138,8 +138,8 @@ import csv
 print("imported")
 
 def main():
-    input_csv = "NonDomGlasgow5.csv"
-    output_csv = "saa_southside5.csv"
+    input_csv = "NonDomGlasgow4.csv"
+    output_csv = "saa_southside4.csv"
 
     # Columns we want to save
     desired_columns = [
