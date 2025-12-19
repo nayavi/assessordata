@@ -138,8 +138,8 @@ import csv
 print("imported")
 
 def main():
-    input_csv = "NonDomGlasgow4.csv"
-    output_csv = "saa_southside4.csv"
+    input_csv = "EPCPipelineAssumptionsInput.csv"
+    output_csv = "EPCDraft1.csv"
 
     # Columns we want to save
     desired_columns = [
@@ -165,10 +165,27 @@ def main():
         for row in reader:
             address1 = row.get("ADDRESS1", "").strip()
             address2 = row.get("ADDRESS2", "").strip()
-            term = address2 if address2 else address1
-            heat=row.get("MAIN_HEATING_FUEL").strip()
-            emissions=row.get("BUILDING_EMISSIONS").strip()
+            post_town = row.get("POST_TOWN", "").strip()
+            postcode = row.get("POSTCODE", "").strip()
 
+            property_type_short = row.get("PROPERTY_TYPE_SHORT", "").strip()
+            property_type = row.get("PROPERTY_TYPE", "").strip()
+            floor_area = row.get("FLOOR_AREA", "").strip()
+
+            energy_rating = row.get("CURRENT_ENERGY_PERFORMANCE_RATING", "").strip()
+            energy_band = row.get("CURRENT_ENERGY_PERFORMANCE_BAND", "").strip()
+
+            building_emissions = row.get("BUILDING_EMISSIONS", "").strip()
+            renewable_sources = row.get("RENEWABLE_SOURCES", "").strip()
+            electricity_source = row.get("ELECTRICITY_SOURCE", "").strip()
+            main_heating_fuel = row.get("MAIN_HEATING_FUEL", "").strip()
+            building_environment = row.get("BUILDING_ENVIRONMENT", "").strip()
+
+            demand_kwh = row.get("Demand KWH", "").strip()
+            demand_mwh = row.get("Demand MWH", "").strip()
+            demand_gwh = row.get("Demand GWH", "").strip()
+            term = address2 if address2 else address1
+            
             search_url = build_search_url(term)
             results = parse_results_page(search_url)
 
@@ -177,19 +194,37 @@ def main():
 
                 # Combine search result + detail data
                 combined = {
-                    "input_postcode": term,
-                    "input_address":address1,
-                    "heating_type": heat,
-                    "building_emissions": emissions,
+                    "ADDRESS1": address1,
+                    "ADDRESS2": address2,
+                    "POST_TOWN": post_town,
+                    "POSTCODE": postcode,
+                    "PROPERTY_TYPE_SHORT": property_type_short,
+                    "PROPERTY_TYPE": property_type,
+                    "FLOOR_AREA": floor_area,
+                    "CURRENT_ENERGY_PERFORMANCE_RATING": energy_rating,
+                    "CURRENT_ENERGY_PERFORMANCE_BAND": energy_band,
+                    "BUILDING_EMISSIONS": building_emissions,
+                    "RENEWABLE_SOURCES": renewable_sources,
+                    "ELECTRICITY_SOURCE": electricity_source,
+                    "MAIN_HEATING_FUEL": main_heating_fuel,
+                    "BUILDING_ENVIRONMENT": building_environment,
+                    "Demand KWH": demand_kwh,
+                    "Demand MWH": demand_mwh,
+                    "Demand GWH": demand_gwh,
+                    "search_term": term,
+                    "search_url": r.get("search_url", ""),
+
+                    # Search result data
                     "result_address": r.get("result_address", ""),
                     "result_value": r.get("result_value", ""),
+                    "detail_url": r.get("detail_url", ""),
+
+                    # Detail page data
                     "Property Address": detail_data.get("Property Address", ""),
                     "Proprietor": detail_data.get("Proprietor", ""),
                     "Tenant": detail_data.get("Tenant", ""),
-                    "Rateable Value": detail_data.get("Rateable Value", ""),
-                    "detail_url": r.get("detail_url", ""),
-                    "search_url": r.get("search_url", "")
-                }
+                    "Rateable Value": detail_data.get("Rateable Value", "")
+                }   
 
                 all_rows.append(combined)
                 print(f"Done with search term: {term}")
