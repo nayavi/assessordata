@@ -138,8 +138,8 @@ import csv
 print("imported")
 
 def main():
-    input_csv = "EPCPipelineAssumptionsInput.csv"
-    output_csv = "EPCDraft1.csv"
+    input_csv = "EPCInput5.csv"
+    output_csv = "EPCDraft5.csv"
 
     # Columns we want to save
     desired_columns = [
@@ -154,7 +154,25 @@ def main():
         "Tenant",
         "Rateable Value",
         "detail_url",
-        "search_url"
+        "search_url",
+        'ADDRESS1',
+        'ADDRESS2',
+        'POST_TOWN',
+        'POSTCODE',
+        'search_term',
+        'PROPERTY_TYPE',
+        'PROPERTY_TYPE_SHORT',
+        'FLOOR_AREA',
+        'CURRENT_ENERGY_PERFORMANCE_RATING',
+        'CURRENT_ENERGY_PERFORMANCE_BAND',
+        'MAIN_HEATING_FUEL',
+        'ELECTRICITY_SOURCE',
+        'RENEWABLE_SOURCES',
+        'BUILDING_ENVIRONMENT',
+        'BUILDING_EMISSIONS',
+        'Demand KWH',
+        'Demand MWH',
+        'Demand GWH'
     ]
 
     all_rows = []
@@ -184,7 +202,7 @@ def main():
             demand_kwh = row.get("Demand KWH", "").strip()
             demand_mwh = row.get("Demand MWH", "").strip()
             demand_gwh = row.get("Demand GWH", "").strip()
-            term = address2 if address2 else address1
+            term = f"{address1 or ''} {address2 or ''}".strip()
             
             search_url = build_search_url(term)
             results = parse_results_page(search_url)
