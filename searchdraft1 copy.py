@@ -138,8 +138,8 @@ import csv
 print("imported")
 
 def main():
-    input_csv = "EPCInput4.csv"
-    output_csv = "EPCDraft4.csv"
+    input_csv = "EPCInput4b.csv"
+    output_csv = "EPCDraft4b.csv"
 
     # Columns we want to save
     desired_columns = [
