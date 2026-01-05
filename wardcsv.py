@@ -1,23 +1,15 @@
-import tabula
+from docx import Document
 import pandas as pd
 
-pdf_path = "viewSelectedDocument.pdf"
+doc = Document("GlasgowWardsExtracted.docx")
 
-# Step 1: Extract all tables
-tables = tabula.read_pdf(pdf_path, pages="all", multiple_tables=True, lattice=True)
+all_tables = []
 
-# Step 2: Combine all tables into a single DataFrame
-all_data = pd.DataFrame()
-for table in tables:
-    all_data = pd.concat([all_data, table], ignore_index=True)
+for table in doc.tables:
+    for row in table.rows:
+        all_tables.append([cell.text.strip() for cell in row.cells])
 
-# Step 3: Determine ward name for filename
-# Assuming the first column contains ward names
-# Take the first non-empty value from the first column
-ward_name = str(all_data.iloc[0, 0]).replace(" ", "_")  # replace spaces with underscores
+df = pd.DataFrame(all_tables)
 
-# Step 4: Save combined table to CSV without headers
-all_data.to_csv(f"{ward_name}.csv", index=False, header=False)
-print(f"Saved combined table as {ward_name}.csv")
-
-
+df.to_csv("allwards.csv", index=False, header=False)
+print("Saved all_tables.csv")
